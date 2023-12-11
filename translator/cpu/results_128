@@ -1,0 +1,127 @@
+#### original version
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 128
+ Warming up : OFF
+ Validation : OFF
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 128 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 1.191078 s
+ Throughput   : 107.465687 sentences/sec
+
+#### matvec removed version
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 128
+ Warming up : OFF
+ Validation : OFF
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 128 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 0.848725 s
+ Throughput   : 150.814526 sentences/sec
+
+#### elemwiseop removed version
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 128
+ Warming up : OFF
+ Validation : OFF
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 128 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 1.565860 s
+ Throughput   : 81.744207 sentences/sec
+
+#### linear removed version
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 128
+ Warming up : OFF
+ Validation : OFF
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 128 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 0.689972 s
+ Throughput   : 185.514846 sentences/sec
+
+#### omp for trivial things
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 128
+ Warming up : OFF
+ Validation : OFF
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 128 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 1.213999 s
+ Throughput   : 105.436678 sentences/sec
+
+#### omp for important things
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 128
+ Warming up : OFF
+ Validation : ON
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 128 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 0.676473 s
+ Throughput   : 189.216742 sentences/sec
+ Validation   : PASSED!
+
+#### mpi & omp used same time makes worse result
+#### mpirun -np 4 ./translator_mpi -n 8
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 8
+ Warming up : OFF
+ Validation : OFF
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Translating 8 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 13.220968 s
+ Throughput   : 0.605099 sentences/sec

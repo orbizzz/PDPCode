@@ -1,0 +1,19 @@
+Invalid MIT-MAGIC-COOKIE-1 key
+ Model : Translator
+ French to English translation
+ =============================================
+ Number of sentences : 4096
+ Warming up : ON
+ Validation : ON
+ Save generated sentences : OFF
+ ---------------------------------------------
+ Loading sentences from pairs.csv ... DONE!
+ Tokenizing input French sentences ... DONE!
+ Warming up ... DONE!
+ Translating 4096 sentence(s) ... DONE!
+ Writing output ... DONE!
+ ---------------------------------------------
+ Elapsed time : 39.338204 s
+ Throughput   : 104.122699 sentences/sec
+ Validation   : PASSED!
+

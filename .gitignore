@@ -1,0 +1,9 @@
+*.o
+translator/cpu/data/answer
+translator/gpu/data/answer
+matmul/main
+matmul/main_summa
+translator/cpu/translator
+translator/cpu/translator_mpi
+translator/cpu/translator_origin
+translator/gpu/translator

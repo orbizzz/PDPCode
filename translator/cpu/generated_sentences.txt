@@ -1,0 +1,5001 @@
+
+ Generated sentences
+ =============================================
+ [-->] input sentence in French
+ [===] target sentence in English
+ [<--] generated sentence
+
+                [ sentence 0 ] 
+ [-->] au rapport .
+ [===] i m reporting for duty .
+ [<--] i m in way for your answer . 
+
+                [ sentence 1 ] 
+ [-->] aujourd hui elle va beaucoup mieux qu hier .
+ [===] she s much better today than yesterday .
+ [<--] she s better better better than better . . 
+
+                [ sentence 2 ] 
+ [-->] aujourd hui je ne patinerai pas .
+ [===] i m not going to skate today .
+ [<--] i m not going to skate today . 
+
+                [ sentence 3 ] 
+ [-->] avec plaisir .
+ [===] you re welcome .
+ [<--] you re lying . 
+
+                [ sentence 4 ] 
+ [-->] c est bien .
+ [===] i m glad to hear that .
+ [<--] i m innocent . 
+
+                [ sentence 5 ] 
+ [-->] c est bon pour moi .
+ [===] i m fine with it .
+ [<--] i m good for me . 
+
+                [ sentence 6 ] 
+ [-->] c est bon pour moi pour l instant .
+ [===] i m good for now .
+ [<--] she m good at for . 
+
+                [ sentence 7 ] 
+ [-->] c est celui qui m a tripote .
+ [===] he s the one who touched me .
+ [<--] he s the one who trained me . 
+
+                [ sentence 8 ] 
+ [-->] c est celui qui m a tripotee .
+ [===] he s the one who touched me .
+ [<--] he s the one who touched me . 
+
+                [ sentence 9 ] 
+ [-->] c est certainement une quadra .
+ [===] she is certainly over forty .
+ [<--] she is certainly stupid forty . 
+
+                [ sentence 10 ] 
+ [-->] c est de notre faute a tous .
+ [===] we re all to blame for that .
+ [<--] he is known to everyone his friends . 
+
+                [ sentence 11 ] 
+ [-->] c est deja un homme .
+ [===] he s already a man .
+ [<--] he s already a man . 
+
+                [ sentence 12 ] 
+ [-->] c est desormais un homme .
+ [===] he s a man now .
+ [<--] he s a a now . 
+
+                [ sentence 13 ] 
+ [-->] c est elle le soutien de famille .
+ [===] she s the breadwinner in this family .
+ [<--] he is my only child of the 
+
+                [ sentence 14 ] 
+ [-->] c est elle qui nourrit notre chien .
+ [===] she is the one who feeds our dog .
+ [<--] she is the one who is over . . 
+
+                [ sentence 15 ] 
+ [-->] c est encore moi le patron ici .
+ [===] i m still the boss around here .
+ [<--] i m still the boss around here . 
+
+                [ sentence 16 ] 
+ [-->] c est ici qu il joue .
+ [===] he is playing here .
+ [<--] he is playing here to be . 
+
+                [ sentence 17 ] 
+ [-->] c est l amour de ma vie .
+ [===] he s the love of my life .
+ [<--] he is the love of my life . 
+
+                [ sentence 18 ] 
+ [-->] c est l homme parfait pour toi .
+ [===] he s the perfect man for you .
+ [<--] he s the perfect about for you . 
+
+                [ sentence 19 ] 
+ [-->] c est l un de mes vieux amis .
+ [===] he is one of my old friends .
+ [<--] he is one of my old friends . 
+
+                [ sentence 20 ] 
+ [-->] c est l un de mes voisins .
+ [===] he is one of my neighbors .
+ [<--] he is one of my of . 
+
+                [ sentence 21 ] 
+ [-->] c est l un des meilleurs .
+ [===] he s one of the best .
+ [<--] he s one of the best . 
+
+                [ sentence 22 ] 
+ [-->] c est l une de mes amies .
+ [===] she is one of my friends .
+ [<--] she is one of my friends . 
+
+                [ sentence 23 ] 
+ [-->] c est la chouchoute de la prof .
+ [===] she s the teacher s pet .
+ [<--] she s the teacher s here . 
+
+                [ sentence 24 ] 
+ [-->] c est la chouchoute du prof .
+ [===] she s the teacher s pet .
+ [<--] she s the teacher s pet . 
+
+                [ sentence 25 ] 
+ [-->] c est la fille de mes reves .
+ [===] she is my dream girl .
+ [<--] she is the most of my 
+
+                [ sentence 26 ] 
+ [-->] c est la plus belle femme .
+ [===] she s the most beautiful woman .
+ [<--] she is the tallest woman woman woman . 
+
+                [ sentence 27 ] 
+ [-->] c est le chef de classe .
+ [===] he is at the head of the class .
+ [<--] he is the boss . 
+
+                [ sentence 28 ] 
+ [-->] c est le fils d une riche famille .
+ [===] he is the son of a wealthy family .
+ [<--] he is the family of my family . 
+
+                [ sentence 29 ] 
+ [-->] c est le garcon le plus grand .
+ [===] he is the tallest boy .
+ [<--] he is the tallest boy . 
+
+                [ sentence 30 ] 
+ [-->] c est le patron du marketing .
+ [===] he is the head of marketing .
+ [<--] he is the head of marketing . 
+
+                [ sentence 31 ] 
+ [-->] c est le pitre de la classe .
+ [===] he s the class clown .
+ [<--] he s the class clown . 
+
+                [ sentence 32 ] 
+ [-->] c est le plus grand artiste vivant .
+ [===] he is the greatest living artist .
+ [<--] he s the tallest first . 
+
+                [ sentence 33 ] 
+ [-->] c est le plus vieux d entre eux .
+ [===] he is the oldest of them all .
+ [<--] he is the tallest of them . 
+
+                [ sentence 34 ] 
+ [-->] c est le portrait crache de son pere .
+ [===] he is the image of his father .
+ [<--] he is the father of his father . 
+
+                [ sentence 35 ] 
+ [-->] c est le seul enfant qu ils aient .
+ [===] he is the only child they have .
+ [<--] he is the only child they have . 
+
+                [ sentence 36 ] 
+ [-->] c est leur unique enfant .
+ [===] he s their only child .
+ [<--] he s a only child . 
+
+                [ sentence 37 ] 
+ [-->] c est loin d etre un gentleman .
+ [===] he is anything but a gentleman .
+ [<--] he is anything but a gentleman . 
+
+                [ sentence 38 ] 
+ [-->] c est lui le bouc emissaire .
+ [===] he s the scapegoat .
+ [<--] he is the scapegoat . 
+
+                [ sentence 39 ] 
+ [-->] c est lui n est ce pas ?
+ [===] he s the one isn t he ?
+ [<--] he s the one isn t he ? 
+
+                [ sentence 40 ] 
+ [-->] c est lui qui est a la traine .
+ [===] he s the one who s lagging behind .
+ [<--] he s the one who used to the truth . 
+                [ sentence 41 ] 
+ [-->] c est lui qui m a aide .
+ [===] he s the one who helped me .
+ [<--] he s the one who trained me . 
+
+                [ sentence 42 ] 
+ [-->] c est ma camarade de classe .
+ [===] she s my classmate .
+ [<--] she is my classmate . 
+
+                [ sentence 43 ] 
+ [-->] c est ma copine .
+ [===] she is my girlfriend .
+ [<--] she is my girlfriend . 
+
+                [ sentence 44 ] 
+ [-->] c est ma faute pas la tienne .
+ [===] i m to blame not you .
+ [<--] i m to not you you . 
+
+                [ sentence 45 ] 
+ [-->] c est ma fille .
+ [===] she s my daughter .
+ [<--] she s my daughter . 
+
+                [ sentence 46 ] 
+ [-->] c est ma s ur .
+ [===] she s my sister .
+ [<--] she is my sister . 
+
+                [ sentence 47 ] 
+ [-->] c est ma s ur ainee .
+ [===] she s my older sister .
+ [<--] she s my older sister . 
+
+                [ sentence 48 ] 
+ [-->] c est maree basse .
+ [===] you re out of booze .
+ [<--] you re out of booze . 
+
+                [ sentence 49 ] 
+ [-->] c est moi la patronne .
+ [===] i m the boss .
+ [<--] i m the boss . 
+
+                [ sentence 50 ] 
+ [-->] c est moi la patronne par ici .
+ [===] i m the boss around here .
+ [<--] i m the boss around here . 
+
+                [ sentence 51 ] 
+ [-->] c est moi le patron .
+ [===] i m the boss .
+ [<--] i m the boss . 
+
+                [ sentence 52 ] 
+ [-->] c est moi le patron ici .
+ [===] i am in charge here .
+ [<--] i m the boss here . 
+
+                [ sentence 53 ] 
+ [-->] c est moi le patron par ici .
+ [===] i m the boss around here .
+ [<--] i m the boss around here . 
+
+                [ sentence 54 ] 
+ [-->] c est moi qui paie .
+ [===] i m buying .
+ [<--] i m asking . 
+
+                [ sentence 55 ] 
+ [-->] c est moi qui suis si malade .
+ [===] i am so sick .
+ [<--] i am so sick . 
+
+                [ sentence 56 ] 
+ [-->] c est moi qui suis tellement malade .
+ [===] i am so sick .
+ [<--] i am so sick . 
+
+                [ sentence 57 ] 
+ [-->] c est mon ami .
+ [===] he s my friend .
+ [<--] he is my friend . 
+
+                [ sentence 58 ] 
+ [-->] c est mon ami intime .
+ [===] he is my close friend .
+ [<--] he is my old friend . 
+
+                [ sentence 59 ] 
+ [-->] c est mon amie .
+ [===] she s my friend .
+ [<--] he is my friend . 
+
+                [ sentence 60 ] 
+ [-->] c est mon associe .
+ [===] he s my partner .
+ [<--] he s my partner . 
+
+                [ sentence 61 ] 
+ [-->] c est mon camarade de classe .
+ [===] he is my classmate .
+ [<--] he is my classmate . 
+
+                [ sentence 62 ] 
+ [-->] c est mon collegue .
+ [===] he is my colleague .
+ [<--] he is my colleague . 
+
+                [ sentence 63 ] 
+ [-->] c est mon compagnon .
+ [===] he s my partner .
+ [<--] he is my partner . 
+
+                [ sentence 64 ] 
+ [-->] c est mon frere .
+ [===] he is my brother .
+ [<--] he s my brother . 
+
+                [ sentence 65 ] 
+ [-->] c est mon frere aine .
+ [===] he s my older brother .
+ [<--] he s my brother brother . 
+
+                [ sentence 66 ] 
+ [-->] c est mon frere pas mon pere .
+ [===] he is my brother not father .
+ [<--] he is my brother brother my father . 
+
+                [ sentence 67 ] 
+ [-->] c est mon heros .
+ [===] he s my hero .
+ [<--] he s my hero . 
+
+                [ sentence 68 ] 
+ [-->] c est mon meilleur ami .
+ [===] he s my best friend .
+ [<--] he is my best friend . 
+
+                [ sentence 69 ] 
+ [-->] c est mon nouvel ami .
+ [===] he s my new friend .
+ [<--] he is my friend friend . 
+
+                [ sentence 70 ] 
+ [-->] c est mon oncle .
+ [===] he is my uncle .
+ [<--] he is my uncle . 
+
+                [ sentence 71 ] 
+ [-->] c est mon partenaire .
+ [===] he s my partner .
+ [<--] he s my partner . 
+
+                [ sentence 72 ] 
+ [-->] c est mon patron .
+ [===] he is my boss .
+ [<--] he is my boss . 
+
+                [ sentence 73 ] 
+ [-->] c est mon professeur .
+ [===] he is my teacher .
+ [<--] he is my teacher . 
+
+                [ sentence 74 ] 
+ [-->] c est mon vieil ami .
+ [===] he is my old friend .
+ [<--] he is my old friend . 
+
+                [ sentence 75 ] 
+ [-->] c est mon vieux compagnon de beuverie .
+ [===] he s my old drinking buddy .
+ [<--] he s my old of of . 
+
+                [ sentence 76 ] 
+ [-->] c est nous qui dirigeons .
+ [===] we re in charge .
+ [<--] we re in charge . 
+
+                [ sentence 77 ] 
+ [-->] c est par nature une personne genereuse .
+ [===] he is by nature a generous person .
+ [<--] he is by . . . . 
+
+                [ sentence 78 ] 
+ [-->] c est pour toi que je suis venu .
+ [===] you re the reason i came .
+ [<--] you re the reason i came . 
+
+                [ sentence 79 ] 
+ [-->] c est pour toi que je suis venue .
+ [===] you re the reason i came .
+ [<--] you re the reason i came . 
+
+                [ sentence 80 ] 
+ [-->] c est pour vous que je suis venu .
+ [===] you re the reason i came .
+ [<--] you re the reason i came . 
+
+                [ sentence 81 ] 
+ [-->] c est pour vous que je suis venue .
+ [===] you re the reason i came .
+ [<--] you re the reason i came . 
+
+                [ sentence 82 ] 
+ [-->] c est que nous appelons un pionnier .
+ [===] he is what we call a pioneer .
+ [<--] he is what we call a pioneer . 
+
+                [ sentence 83 ] 
+ [-->] c est quelqu un de bien .
+ [===] he s a good person .
+ [<--] he is a great of . 
+
+                [ sentence 84 ] 
+ [-->] c est sa fiancee .
+ [===] she is engaged to him .
+ [<--] she is engaged to him . 
+
+                [ sentence 85 ] 
+ [-->] c est son epouse du moment .
+ [===] she is his present wife .
+ [<--] she s the most for the . 
+
+                [ sentence 86 ] 
+ [-->] c est sur qu il reussira .
+ [===] he s certain to succeed .
+ [<--] he s sure to succeed that . 
+
+                [ sentence 87 ] 
+ [-->] c est toi l aine .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 88 ] 
+ [-->] c est toi l ainee .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 89 ] 
+ [-->] c est toi l enseignant .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 90 ] 
+ [-->] c est toi l enseignante .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 91 ] 
+ [-->] c est toi l instituteur .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 92 ] 
+ [-->] c est toi l institutrice .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 93 ] 
+ [-->] c est toi la chef .
+ [===] you re the leader .
+ [<--] you re the leader . 
+
+                [ sentence 94 ] 
+ [-->] c est toi la doyenne .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 95 ] 
+ [-->] c est toi la maitresse .
+ [===] you re the master .
+ [<--] you re the master . 
+
+                [ sentence 96 ] 
+ [-->] c est toi la plus vieille .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 97 ] 
+ [-->] c est toi la prof .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 98 ] 
+ [-->] c est toi la professeur .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 99 ] 
+ [-->] c est toi le chef .
+ [===] you re the leader .
+ [<--] you re the boss . 
+
+                [ sentence 100 ] 
+ [-->] c est toi le doyen .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 101 ] 
+ [-->] c est toi le maitre .
+ [===] you re the master .
+ [<--] you re the master . 
+
+                [ sentence 102 ] 
+ [-->] c est toi le plus vieux .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 103 ] 
+ [-->] c est toi le prisonnier .
+ [===] you re the prisoner .
+ [<--] you re the prisoner . 
+
+                [ sentence 104 ] 
+ [-->] c est toi le prof .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 105 ] 
+ [-->] c est toi le professeur .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 106 ] 
+ [-->] c est toi le professionnel .
+ [===] you re the pro .
+ [<--] you re the oldest . 
+
+                [ sentence 107 ] 
+ [-->] c est toi qui as plante cet arbre .
+ [===] you re the one who planted that tree .
+ [<--] you re the one who planted that tree . 
+
+                [ sentence 108 ] 
+ [-->] c est toi qui m as entraine .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 109 ] 
+ [-->] c est toi qui m as entrainee .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 110 ] 
+ [-->] c est toi qui m as forme .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 111 ] 
+ [-->] c est toi qui m as formee .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 112 ] 
+ [-->] c est toi qui me le dis .
+ [===] you re telling me .
+ [<--] you re telling me . 
+
+                [ sentence 113 ] 
+ [-->] c est toi qui t es emballe .
+ [===] you re the one that went crazy .
+ [<--] you re the one that went crazy . 
+
+                [ sentence 114 ] 
+ [-->] c est toi qui t es emballee .
+ [===] you re the one that went crazy .
+ [<--] you re the one that went crazy . 
+
+                [ sentence 115 ] 
+ [-->] c est ton fils .
+ [===] he s your son .
+ [<--] he s your son . 
+
+                [ sentence 116 ] 
+ [-->] c est triste que tu doives partir .
+ [===] i m sorry you re leaving us .
+ [<--] i m sorry you re leaving us . 
+
+                [ sentence 117 ] 
+ [-->] c est un acteur .
+ [===] he is an actor .
+ [<--] he is an bigot . 
+
+                [ sentence 118 ] 
+ [-->] c est un adorable jeune homme .
+ [===] he s a lovely young man .
+ [<--] he s a lovely young man . 
+
+                [ sentence 119 ] 
+ [-->] c est un adulte .
+ [===] he s a grown man .
+ [<--] he s a grown man . 
+
+                [ sentence 120 ] 
+ [-->] c est un aine .
+ [===] he s a senior .
+ [<--] he s a bigot . 
+
+                [ sentence 121 ] 
+ [-->] c est un americain d origine asiatique .
+ [===] he s an asian american .
+ [<--] he s an american american . 
+
+                [ sentence 122 ] 
+ [-->] c est un ami de mon frere .
+ [===] he s a friend of my brother s .
+ [<--] he s a friend of my brother . 
+
+                [ sentence 123 ] 
+ [-->] c est un ami tres proche .
+ [===] he is my close friend .
+ [<--] he is a very friend . 
+
+                [ sentence 124 ] 
+ [-->] c est un ancien .
+ [===] he s a senior .
+ [<--] he s a senior . 
+
+                [ sentence 125 ] 
+ [-->] c est un ancien detenu .
+ [===] he s an ex con .
+ [<--] he s a lovely young . 
+
+                [ sentence 126 ] 
+ [-->] c est un ange .
+ [===] she s an angel .
+ [<--] she s an angel . 
+
+                [ sentence 127 ] 
+ [-->] c est un aristocrate .
+ [===] he s an aristocrat .
+ [<--] he s an bigot . 
+
+                [ sentence 128 ] 
+ [-->] c est un artiste celebre .
+ [===] he s a famous artist .
+ [<--] he is a famous artist . 
+
+                [ sentence 129 ] 
+ [-->] c est un artiste en quelque sorte .
+ [===] he is something of an artist .
+ [<--] he s a of of of of . 
+
+                [ sentence 130 ] 
+ [-->] c est un artiste ne .
+ [===] he is a born artist .
+ [<--] he is a born artist . 
+
+                [ sentence 131 ] 
+ [-->] c est un assistant en archeologie .
+ [===] he is an archeologist s assistant .
+ [<--] he is an authority s young . 
+
+                [ sentence 132 ] 
+ [-->] c est un auteur .
+ [===] he s an author .
+ [<--] he s an author . 
+
+                [ sentence 133 ] 
+ [-->] c est un avocat competent .
+ [===] he is a capable lawyer .
+ [<--] he is a teacher of . . 
+
+                [ sentence 134 ] 
+ [-->] c est un baratineur .
+ [===] he s a smooth talker .
+ [<--] he s a bigot . 
+
+                [ sentence 135 ] 
+ [-->] c est un beau gosse .
+ [===] he s a hunk .
+ [<--] he s a hunk . 
+
+                [ sentence 136 ] 
+ [-->] c est un beau mec .
+ [===] he s a hunk .
+ [<--] he s a hunk . 
+
+                [ sentence 137 ] 
+ [-->] c est un beau parleur .
+ [===] he s a smooth talker .
+ [<--] he s a hunk talker . 
+
+                [ sentence 138 ] 
+ [-->] c est un bel homme .
+ [===] he is a handsome man .
+ [<--] he is a a man . 
+
+                [ sentence 139 ] 
+ [-->] c est un bigot .
+ [===] he s a bigot .
+ [<--] he s a bigot . 
+
+                [ sentence 140 ] 
+ [-->] c est un binoclard .
+ [===] he s a nerd .
+ [<--] he s a bigot . 
+
+                [ sentence 141 ] 
+ [-->] c est un bizuth .
+ [===] he s a freshman .
+ [<--] he s a bigot . 
+
+                [ sentence 142 ] 
+ [-->] c est un bleu .
+ [===] he s a freshman .
+ [<--] he s an bigot . 
+
+                [ sentence 143 ] 
+ [-->] c est un bon a rien .
+ [===] he is good for nothing .
+ [<--] he is good for nothing . 
+
+                [ sentence 144 ] 
+ [-->] c est un bon chanteur .
+ [===] he is a good singer .
+ [<--] he is a good singer . 
+
+                [ sentence 145 ] 
+ [-->] c est un bon conducteur .
+ [===] he is good at driving .
+ [<--] he is good at driving . 
+
+                [ sentence 146 ] 
+ [-->] c est un bon docteur .
+ [===] he is a good doctor .
+ [<--] he is a good doctor . 
+
+                [ sentence 147 ] 
+ [-->] c est un bon ecrivain .
+ [===] he is a good writer .
+ [<--] he is a good writer . 
+
+                [ sentence 148 ] 
+ [-->] c est un bon etudiant .
+ [===] he is a good student .
+ [<--] he is a good student . 
+
+                [ sentence 149 ] 
+ [-->] c est un bon garcon .
+ [===] he s a good boy .
+ [<--] he s a good boy . 
+
+                [ sentence 150 ] 
+ [-->] c est un bon gars .
+ [===] he s a fine young lad .
+ [<--] he s a good young . 
+
+                [ sentence 151 ] 
+ [-->] c est un bon joueur de tennis .
+ [===] he is a good tennis player .
+ [<--] he is a good tennis player . 
+
+                [ sentence 152 ] 
+ [-->] c est un bon mari pour moi .
+ [===] he is a good husband to me .
+ [<--] he is good good husband for me . 
+
+                [ sentence 153 ] 
+ [-->] c est un bon medecin .
+ [===] he is a good doctor .
+ [<--] he is a good doctor . 
+
+                [ sentence 154 ] 
+ [-->] c est un bon nageur .
+ [===] he is a good swimmer .
+ [<--] he is a good of . 
+
+                [ sentence 155 ] 
+ [-->] c est un bon orateur .
+ [===] he is a good speaker .
+ [<--] he is a good worker . 
+
+                [ sentence 156 ] 
+ [-->] c est un brave homme .
+ [===] he is a brave man .
+ [<--] he is a very man . 
+
+                [ sentence 157 ] 
+ [-->] c est un canon .
+ [===] she s a looker .
+ [<--] he s a bigot . 
+
+                [ sentence 158 ] 
+ [-->] c est un cardiologue .
+ [===] he s a cardiologist .
+ [<--] he s a bigot . 
+
+                [ sentence 159 ] 
+ [-->] c est un cas sans espoir .
+ [===] he is beyond hope .
+ [<--] he is beyond hope . 
+
+                [ sentence 160 ] 
+ [-->] c est un casse cou .
+ [===] he is a daredevil .
+ [<--] he is an friendly . 
+
+                [ sentence 161 ] 
+ [-->] c est un celebre compositeur .
+ [===] he is a famous composer .
+ [<--] he is a famous artist . 
+
+                [ sentence 162 ] 
+ [-->] c est un champion de tennis .
+ [===] he is a tennis champion .
+ [<--] he is a tennis player . 
+
+                [ sentence 163 ] 
+ [-->] c est un champion du monde en puissance .
+ [===] he is a potential world champion .
+ [<--] he is a hunk in the club . 
+
+                [ sentence 164 ] 
+ [-->] c est un charmant jeune homme .
+ [===] he s a lovely young man .
+ [<--] he s a lovely young man . 
+
+                [ sentence 165 ] 
+ [-->] c est un citoyen respectueux des lois .
+ [===] he s a law abiding citizen .
+ [<--] he s a hunk citizen of . 
+
+                [ sentence 166 ] 
+ [-->] c est un coureur rapide .
+ [===] he is a fast runner .
+ [<--] he is a fast runner . 
+
+                [ sentence 167 ] 
+ [-->] c est un creationiste .
+ [===] he s a creationist .
+ [<--] he s a creationist . 
+
+                [ sentence 168 ] 
+ [-->] c est un critique acerbe .
+ [===] he is a harsh critic .
+ [<--] he is a most writer . 
+
+                [ sentence 169 ] 
+ [-->] c est un critique gastronomique .
+ [===] he s a food critic .
+ [<--] he is a most of . 
+
+                [ sentence 170 ] 
+ [-->] c est un de ces pauvres types !
+ [===] he s such a jerk .
+ [<--] he s such a jerk . 
+
+                [ sentence 171 ] 
+ [-->] c est un de mes meilleurs amis .
+ [===] he is one of my best friends .
+ [<--] he is one of my best friends . 
+
+                [ sentence 172 ] 
+ [-->] c est un de mes voisins .
+ [===] he is one of my neighbors .
+ [<--] he is one of my neighbors . 
+
+                [ sentence 173 ] 
+ [-->] c est un drole de personnage .
+ [===] he s a strange character .
+ [<--] he s a lovely of . 
+
+                [ sentence 174 ] 
+ [-->] c est un ecologiste .
+ [===] he is an environmentalist .
+ [<--] he is a bigot . 
+
+                [ sentence 175 ] 
+ [-->] c est un ecrivain de talent .
+ [===] he s a talented writer .
+ [<--] he is a very writer . 
+
+                [ sentence 176 ] 
+ [-->] c est un ecrivain plein d imagination .
+ [===] he is a very imaginative writer .
+ [<--] he is a very imaginative writer . 
+
+                [ sentence 177 ] 
+ [-->] c est un ecrivain talentueux .
+ [===] he s a talented writer .
+ [<--] he s a talented writer . 
+
+                [ sentence 178 ] 
+ [-->] c est un ecrivain tres imaginatif .
+ [===] he is a very imaginative writer .
+ [<--] he is a very imaginative writer . 
+
+                [ sentence 179 ] 
+ [-->] c est un electron libre .
+ [===] he s a loose cannon .
+ [<--] he is a at . . 
+
+                [ sentence 180 ] 
+ [-->] c est un emmerdeur .
+ [===] he is a tough cookie .
+ [<--] he is a bigot . . 
+
+                [ sentence 181 ] 
+ [-->] c est un employe de bureau .
+ [===] he is an office worker .
+ [<--] he is an office worker worker . 
+
+                [ sentence 182 ] 
+ [-->] c est un employe subalterne .
+ [===] he s a junior employee .
+ [<--] he s a junior employee . 
+
+                [ sentence 183 ] 
+ [-->] c est un employe tres travailleur .
+ [===] he s a very hard worker .
+ [<--] he s a very happy . 
+
+                [ sentence 184 ] 
+ [-->] c est un enfant gate .
+ [===] he is a spoiled child .
+ [<--] he is a spoiled child . 
+
+                [ sentence 185 ] 
+ [-->] c est un enfant mince .
+ [===] he is a slim child .
+ [<--] he is a only child . 
+
+                [ sentence 186 ] 
+ [-->] c est un enfant pourri gate .
+ [===] he is a spoiled child .
+ [<--] he is a fast child . . 
+
+                [ sentence 187 ] 
+ [-->] c est un enseignant experimente .
+ [===] he is an experienced teacher .
+ [<--] he is an teacher . . 
+
+                [ sentence 188 ] 
+ [-->] c est un esprit independant .
+ [===] he s an independent thinker .
+ [<--] she s an independent thinker . 
+
+                [ sentence 189 ] 
+ [-->] c est un etasunien d origine chinoise .
+ [===] he s a chinese american .
+ [<--] he s a bigot american . 
+
+                [ sentence 190 ] 
+ [-->] c est un etudiant .
+ [===] he is a student .
+ [<--] he is a student . 
+
+                [ sentence 191 ] 
+ [-->] c est un etudiant de deuxieme annee .
+ [===] he s a sophomore .
+ [<--] he is a student student student . 
+
+                [ sentence 192 ] 
+ [-->] c est un etudiant de l universite .
+ [===] he s a university student .
+ [<--] he is a university student . 
+
+                [ sentence 193 ] 
+ [-->] c est un etudiant de premier cycle .
+ [===] he s an undergrad .
+ [<--] he s an undergrad . 
+
+                [ sentence 194 ] 
+ [-->] c est un etudiant paresseux .
+ [===] he is a lazy student .
+ [<--] he s a student student . 
+
+                [ sentence 195 ] 
+ [-->] c est un expert a la fronde .
+ [===] he s an expert with a slingshot .
+ [<--] he s an expert in an cold . 
+
+                [ sentence 196 ] 
+ [-->] c est un expert du lancer de couteaux .
+ [===] he s an expert at throwing knives .
+ [<--] he s an expert good at home . 
+
+                [ sentence 197 ] 
+ [-->] c est un faineant .
+ [===] he s a slacker .
+ [<--] he s a bigot . 
+
+                [ sentence 198 ] 
+ [-->] c est un fanatique .
+ [===] he s a bigot .
+ [<--] he s a bigot . 
+
+                [ sentence 199 ] 
+ [-->] c est un flemmard .
+ [===] he s a slob .
+ [<--] he s a bigot . 
+
+                [ sentence 200 ] 
+ [-->] c est un fondu de musique .
+ [===] he is mad about music .
+ [<--] he is mad about music . 
+
+                [ sentence 201 ] 
+ [-->] c est un fossile vivant !
+ [===] he is a living fossil !
+ [<--] he is a big american . 
+
+                [ sentence 202 ] 
+ [-->] c est un fou de musique .
+ [===] he is mad about music .
+ [<--] he is about music about music . 
+
+                [ sentence 203 ] 
+ [-->] c est un frileux .
+ [===] he is very sensitive to cold .
+ [<--] he is very sensitive to cold . 
+
+                [ sentence 204 ] 
+ [-->] c est un fumeur invetere .
+ [===] he s a chain smoker .
+ [<--] he s a salesman nice . 
+
+                [ sentence 205 ] 
+ [-->] c est un garcon gai et courageux .
+ [===] he is a brave and cheerful boy .
+ [<--] he is a brave and cheerful boy boy . 
+
+                [ sentence 206 ] 
+ [-->] c est un garcon intelligent .
+ [===] he is a clever boy .
+ [<--] he is a clever boy . 
+
+                [ sentence 207 ] 
+ [-->] c est un garcon tres chouette .
+ [===] he s a very nice boy .
+ [<--] he s a very nice boy . 
+
+                [ sentence 208 ] 
+ [-->] c est un garcon tres gentil .
+ [===] he s a very nice boy .
+ [<--] he s a very nice boy . 
+
+                [ sentence 209 ] 
+ [-->] c est un garcon tres intelligent .
+ [===] he is a very smart boy .
+ [<--] he is a very intelligent boy . 
+
+                [ sentence 210 ] 
+ [-->] c est un gaucher .
+ [===] he s a southpaw .
+ [<--] he s a bigot . 
+
+                [ sentence 211 ] 
+ [-->] c est un genie .
+ [===] he is a genius .
+ [<--] he is a bigot . 
+
+                [ sentence 212 ] 
+ [-->] c est un gentil garcon .
+ [===] he is a kind boy .
+ [<--] he s a sweet boy . 
+
+                [ sentence 213 ] 
+ [-->] c est un gentleman .
+ [===] he s a gentleman .
+ [<--] he is a gentleman . 
+
+                [ sentence 214 ] 
+ [-->] c est un grand farceur .
+ [===] he is a big prankster .
+ [<--] he is a big prankster . 
+
+                [ sentence 215 ] 
+ [-->] c est un grand lache .
+ [===] he s a big coward .
+ [<--] he s a big coward . 
+
+                [ sentence 216 ] 
+ [-->] c est un grand scientifique .
+ [===] he is a great scientist .
+ [<--] he is a scientist scientist . 
+
+                [ sentence 217 ] 
+ [-->] c est un gros mangeur .
+ [===] he is a big eater .
+ [<--] he is a big artist . 
+
+                [ sentence 218 ] 
+ [-->] c est un heros inconnu .
+ [===] he is an unsung hero .
+ [<--] he is an hero hero . 
+
+                [ sentence 219 ] 
+ [-->] c est un homme assez etrange .
+ [===] he is quite an odd man .
+ [<--] he is a man man man . 
+
+                [ sentence 220 ] 
+ [-->] c est un homme aux multiples talents .
+ [===] he s a man of many talents .
+ [<--] he s a man of many man talents . 
+
+                [ sentence 221 ] 
+ [-->] c est un homme cruel .
+ [===] he is a cruel person .
+ [<--] he is a man of . 
+
+                [ sentence 222 ] 
+ [-->] c est un homme cultive .
+ [===] he is a learned man .
+ [<--] he is a man man . 
+
+                [ sentence 223 ] 
+ [-->] c est un homme d affaire a succes .
+ [===] he s a successful businessman .
+ [<--] he s a successful businessman . 
+
+                [ sentence 224 ] 
+ [-->] c est un homme de caractere .
+ [===] he is a man of character .
+ [<--] he is a man of birth . 
+
+                [ sentence 225 ] 
+ [-->] c est un homme de faible volonte .
+ [===] he s a weak willed man .
+ [<--] he s a weak man man man . 
+
+                [ sentence 226 ] 
+ [-->] c est un homme de famille noble .
+ [===] he is a man of noble birth .
+ [<--] he is a man of the family . 
+
+                [ sentence 227 ] 
+ [-->] c est un homme de foi .
+ [===] he is a man of faith .
+ [<--] he is a man of man . 
+
+                [ sentence 228 ] 
+ [-->] c est un homme de grand talent .
+ [===] he is a man of great ability .
+ [<--] he is a man of great . . 
+
+                [ sentence 229 ] 
+ [-->] c est un homme de parole .
+ [===] he s a man of his word .
+ [<--] he is a man of his word . 
+
+                [ sentence 230 ] 
+ [-->] c est un homme de raison .
+ [===] he is a man of reason .
+ [<--] he is a man of his . 
+
+                [ sentence 231 ] 
+ [-->] c est un homme dur en affaire .
+ [===] he is a hard man to deal with .
+ [<--] he is a hard to the american to the . 
+                [ sentence 232 ] 
+ [-->] c est un homme habile .
+ [===] he is a man of ability .
+ [<--] he is a man of . 
+
+                [ sentence 233 ] 
+ [-->] c est un homme honnete .
+ [===] he is an honest man .
+ [<--] he is a honest man of . 
+
+                [ sentence 234 ] 
+ [-->] c est un homme jaloux .
+ [===] he is a jealous man .
+ [<--] he is a man of . 
+
+                [ sentence 235 ] 
+ [-->] c est un homme marie .
+ [===] he s a married man .
+ [<--] he s a married man . 
+
+                [ sentence 236 ] 
+ [-->] c est un homme qui adore les ceremonies .
+ [===] he is a man who loves ceremonies .
+ [<--] he is a man who loves room . 
+
+                [ sentence 237 ] 
+ [-->] c est un homme riche .
+ [===] he is a man of wealth .
+ [<--] he is a man man . 
+
+                [ sentence 238 ] 
+ [-->] c est un homme sage .
+ [===] he is a man of wisdom .
+ [<--] he is a man of . 
+
+                [ sentence 239 ] 
+ [-->] c est un homme taiseux .
+ [===] he is a quiet man .
+ [<--] he is a man of . 
+
+                [ sentence 240 ] 
+ [-->] c est un homme tres bien paye .
+ [===] he is a highly paid man .
+ [<--] he is a very good man . 
+
+                [ sentence 241 ] 
+ [-->] c est un homme tres dangereux .
+ [===] he is very a dangerous man .
+ [<--] he is a very dangerous man . 
+
+                [ sentence 242 ] 
+ [-->] c est un homme tres talentueux .
+ [===] he s a very talented man .
+ [<--] he s a very talented man . 
+
+                [ sentence 243 ] 
+ [-->] c est un hors la loi .
+ [===] he s an outlaw .
+ [<--] he is an outlaw at . . 
+
+                [ sentence 244 ] 
+ [-->] c est un illumine .
+ [===] he s a bigot .
+ [<--] he s a bigot . 
+
+                [ sentence 245 ] 
+ [-->] c est un inconditionnel de l opera .
+ [===] he s an opera lover .
+ [<--] he s a opera lover . 
+
+                [ sentence 246 ] 
+ [-->] c est un individu plutot rare .
+ [===] he s a rather rare individual .
+ [<--] he s a rather rather rather . 
+
+                [ sentence 247 ] 
+ [-->] c est un informaticien boutonneux .
+ [===] he s a computer nerd .
+ [<--] he s a cold guy . 
+
+                [ sentence 248 ] 
+ [-->] c est un interprete dans une banque internationale .
+ [===] he s an interpreter in an international bank .
+ [<--] he s an interpreter in an international . 
+
+                [ sentence 249 ] 
+ [-->] c est un japonais typique .
+ [===] he is a typical japanese .
+ [<--] he is a japanese japanese . 
+
+                [ sentence 250 ] 
+ [-->] c est un jeune adolescent impressionnable .
+ [===] he s a young impressionable teenager .
+ [<--] he s a young teenager teenager . 
+
+                [ sentence 251 ] 
+ [-->] c est un jeune directeur plein de talent .
+ [===] he s a talented young director .
+ [<--] he is a lovely young writer . 
+
+                [ sentence 252 ] 
+ [-->] c est un jeune homme adorable .
+ [===] he s a lovely young man .
+ [<--] he s a lovely young man . 
+
+                [ sentence 253 ] 
+ [-->] c est un jeune homme d affaires prometteur .
+ [===] he is a promising young businessman .
+ [<--] he is a young young businessman . 
+
+                [ sentence 254 ] 
+ [-->] c est un jeune homme intelligent .
+ [===] he s an intelligent young man .
+ [<--] he is a clever young man . 
+
+                [ sentence 255 ] 
+ [-->] c est un jeune homme prometteur .
+ [===] he is a promising young man .
+ [<--] he is a young young man . 
+
+                [ sentence 256 ] 
+ [-->] c est un joueur .
+ [===] he s a gambler .
+ [<--] he s a gambler . 
+
+                [ sentence 257 ] 
+ [-->] c est un joueur de tennis .
+ [===] he is a tennis player .
+ [<--] he s a tennis player . 
+
+                [ sentence 258 ] 
+ [-->] c est un joueur invetere .
+ [===] he is a compulsive gambler .
+ [<--] he s a very gambler . 
+
+                [ sentence 259 ] 
+ [-->] c est un journaliste independant .
+ [===] he s a freelance journalist .
+ [<--] he s a bigot journalist . 
+
+                [ sentence 260 ] 
+ [-->] c est un lambin .
+ [===] he s a slowpoke .
+ [<--] he s a bigot . 
+
+                [ sentence 261 ] 
+ [-->] c est un lourdaud .
+ [===] he s a slowpoke .
+ [<--] he s a bigot . 
+
+                [ sentence 262 ] 
+ [-->] c est un magnat .
+ [===] he s a tycoon .
+ [<--] he s a . . 
+
+                [ sentence 263 ] 
+ [-->] c est un malade du controle .
+ [===] he s a control freak .
+ [<--] he s a control freak . 
+
+                [ sentence 264 ] 
+ [-->] c est un maniaque du controle .
+ [===] he s a control freak .
+ [<--] he s a control freak . 
+
+                [ sentence 265 ] 
+ [-->] c est un mannequin .
+ [===] she s a model .
+ [<--] she s a model . 
+
+                [ sentence 266 ] 
+ [-->] c est un mannequin d elite .
+ [===] she s a supermodel .
+ [<--] she s a supermodel . 
+
+                [ sentence 267 ] 
+ [-->] c est un marcheur rapide .
+ [===] he s a fast walker .
+ [<--] he s a fast runner . 
+
+                [ sentence 268 ] 
+ [-->] c est un mari ideal pour moi .
+ [===] he is an ideal husband for me .
+ [<--] he is an ideal husband for me . 
+
+                [ sentence 269 ] 
+ [-->] c est un mathematicien de genie .
+ [===] he is a mathematical genius .
+ [<--] he is a most genius . 
+
+                [ sentence 270 ] 
+ [-->] c est un mauvais conducteur .
+ [===] he is bad at driving .
+ [<--] he is a bad bad . 
+
+                [ sentence 271 ] 
+ [-->] c est un mauvais garcon .
+ [===] he is a bad boy .
+ [<--] he s a bad boy . 
+
+                [ sentence 272 ] 
+ [-->] c est un mechant homme .
+ [===] he is an evil man .
+ [<--] he is a man man . 
+
+                [ sentence 273 ] 
+ [-->] c est un membre du comite .
+ [===] he is a member of the committee .
+ [<--] he s a member of the of . 
+
+                [ sentence 274 ] 
+ [-->] c est un membre estime .
+ [===] he is a member in good standing .
+ [<--] he is a member in a cold . 
+
+                [ sentence 275 ] 
+ [-->] c est un menteur .
+ [===] he s a liar .
+ [<--] he s a liar . 
+
+                [ sentence 276 ] 
+ [-->] c est un menteur notoire .
+ [===] he s a notorious liar .
+ [<--] he s a a liar . 
+
+                [ sentence 277 ] 
+ [-->] c est un monsieur .
+ [===] he is a gentleman .
+ [<--] he is a gentleman . 
+
+                [ sentence 278 ] 
+ [-->] c est un mordu de cinema .
+ [===] he s a movie buff .
+ [<--] he s a professor . . 
+
+                [ sentence 279 ] 
+ [-->] c est un moulin a parole .
+ [===] she is a chatterbox .
+ [<--] she is a tough worker . 
+
+                [ sentence 280 ] 
+ [-->] c est un musicien de grande qualite .
+ [===] he s a very fine musician .
+ [<--] he is a fine great great friend . 
+
+                [ sentence 281 ] 
+ [-->] c est un negre .
+ [===] he s a ghostwriter .
+ [<--] he s a bigot . 
+
+                [ sentence 282 ] 
+ [-->] c est un nouveau venu .
+ [===] he s a newcomer .
+ [<--] he s a very boy . 
+
+                [ sentence 283 ] 
+ [-->] c est un parfait gentleman .
+ [===] he is every inch a gentleman .
+ [<--] he is a gentleman gentleman . 
+
+                [ sentence 284 ] 
+ [-->] c est un pauvre type .
+ [===] he s a jerk .
+ [<--] he s a jerk . 
+
+                [ sentence 285 ] 
+ [-->] c est un pauvre type sans c ur .
+ [===] he s a cold hearted jerk .
+ [<--] he s a cold hearted jerk . 
+
+                [ sentence 286 ] 
+ [-->] c est un peintre .
+ [===] he is a painter .
+ [<--] he is a painter . 
+
+                [ sentence 287 ] 
+ [-->] c est un petit gars intelligent .
+ [===] he s a smart little feller .
+ [<--] he is a intelligent intelligent clever . 
+
+                [ sentence 288 ] 
+ [-->] c est un physicien .
+ [===] he is a physicist .
+ [<--] he is a bigot . 
+
+                [ sentence 289 ] 
+ [-->] c est un pigiste .
+ [===] he s a freelance journalist .
+ [<--] he s a bigot . 
+
+                [ sentence 290 ] 
+ [-->] c est un planque .
+ [===] he s a slacker .
+ [<--] he s a bigot . 
+
+                [ sentence 291 ] 
+ [-->] c est un pleurnichard comme toujours .
+ [===] he s a crybaby just like always .
+ [<--] he s a beautiful as beautiful always . 
+
+                [ sentence 292 ] 
+ [-->] c est un poete .
+ [===] he is a poet .
+ [<--] he is a poet . 
+
+                [ sentence 293 ] 
+ [-->] c est un poete ne .
+ [===] he is a born poet .
+ [<--] he is a a poet . 
+
+                [ sentence 294 ] 
+ [-->] c est un professeur d anglais .
+ [===] he is a teacher of english .
+ [<--] he is a teacher of english . 
+
+                [ sentence 295 ] 
+ [-->] c est un professeur de notre ecole .
+ [===] he is a teacher at our school .
+ [<--] he is a teacher at our school . 
+
+                [ sentence 296 ] 
+ [-->] c est un puissant sorcier .
+ [===] he s a powerful sorcerer .
+ [<--] he s a powerful . . 
+
+                [ sentence 297 ] 
+ [-->] c est un renard .
+ [===] she s a fox .
+ [<--] she s a bigot . 
+
+                [ sentence 298 ] 
+ [-->] c est un retraite .
+ [===] he s a senior .
+ [<--] he s a senior . 
+
+                [ sentence 299 ] 
+ [-->] c est un romancier et un artiste .
+ [===] he is a novelist and artist .
+ [<--] he is a novelist and artist artist . 
+
+                [ sentence 300 ] 
+ [-->] c est un rouspeteur .
+ [===] he s a grouch .
+ [<--] he s a bigot . 
+
+                [ sentence 301 ] 
+ [-->] c est un sacre musicien .
+ [===] he is something of a musician .
+ [<--] he is a of of of . 
+
+                [ sentence 302 ] 
+ [-->] c est un sale menteur !
+ [===] he s a filthy liar .
+ [<--] he s a filthy liar . 
+
+                [ sentence 303 ] 
+ [-->] c est un scientifique .
+ [===] he is a scientist .
+ [<--] he is a scientist . 
+
+                [ sentence 304 ] 
+ [-->] c est un scientifique de niveau international .
+ [===] he s a world class scientist .
+ [<--] he is a good of . . 
+
+                [ sentence 305 ] 
+ [-->] c est un sectaire .
+ [===] he s a bigot .
+ [<--] he s a bigot . 
+
+                [ sentence 306 ] 
+ [-->] c est un tel frimeur !
+ [===] he is such a show off .
+ [<--] he is such a baby off . 
+
+                [ sentence 307 ] 
+ [-->] c est un tel pauvre type !
+ [===] he s such a jerk .
+ [<--] he is such a jerk . 
+
+                [ sentence 308 ] 
+ [-->] c est un tenancier de bar .
+ [===] he s a bartender .
+ [<--] he s a bartender . 
+
+                [ sentence 309 ] 
+ [-->] c est un tireur d elite .
+ [===] he is a sharp shooter .
+ [<--] he is a sharp . . 
+
+                [ sentence 310 ] 
+ [-->] c est un travailleur applique .
+ [===] he is a hard worker .
+ [<--] he is a very worker . 
+
+                [ sentence 311 ] 
+ [-->] c est un travailleur du batiment .
+ [===] he s a construction worker .
+ [<--] he s a very worker . 
+
+                [ sentence 312 ] 
+ [-->] c est un tres bon joueur de tennis .
+ [===] he is a good tennis player .
+ [<--] he is a very good tennis player . 
+
+                [ sentence 313 ] 
+ [-->] c est un tres bon musicien .
+ [===] he s a very fine musician .
+ [<--] he is a very good musician . 
+
+                [ sentence 314 ] 
+ [-->] c est un tres chouette garcon .
+ [===] he s a very nice boy .
+ [<--] he s a very nice boy . 
+
+                [ sentence 315 ] 
+ [-->] c est un tres gentil garcon .
+ [===] he s a very nice boy .
+ [<--] he s a very nice boy . 
+
+                [ sentence 316 ] 
+ [-->] c est un tricheur et un menteur .
+ [===] he s a cheat and a liar .
+ [<--] he s a and and liar . 
+
+                [ sentence 317 ] 
+ [-->] c est un type assez connu .
+ [===] he is a pretty great guy .
+ [<--] he is a good great guy . 
+
+                [ sentence 318 ] 
+ [-->] c est un type etrange .
+ [===] he s a strange guy .
+ [<--] he s a strange guy . 
+
+                [ sentence 319 ] 
+ [-->] c est un type paresseux .
+ [===] he is a lazy fellow .
+ [<--] he s a lazy guy . 
+
+                [ sentence 320 ] 
+ [-->] c est un type tellement sympa !
+ [===] he s such a great guy .
+ [<--] he s a very great guy . 
+
+                [ sentence 321 ] 
+ [-->] c est un vieil ami a moi .
+ [===] he is an old friend of mine .
+ [<--] he is an old friend of mine . 
+
+                [ sentence 322 ] 
+ [-->] c est un vieux de la vieille .
+ [===] he s an old timer .
+ [<--] he s an old timer . 
+
+                [ sentence 323 ] 
+ [-->] c est un voleur .
+ [===] he is a thief .
+ [<--] he is a thief . 
+
+                [ sentence 324 ] 
+ [-->] c est un voyant .
+ [===] he is a psychic .
+ [<--] he is a psychic . 
+
+                [ sentence 325 ] 
+ [-->] c est un vrai gentilhomme .
+ [===] he is a true gentleman .
+ [<--] he is a true child . 
+
+                [ sentence 326 ] 
+ [-->] c est un vrai mec .
+ [===] he s a real man .
+ [<--] he is a a man . 
+
+                [ sentence 327 ] 
+ [-->] c est une alcoolique .
+ [===] she s an alcoholic .
+ [<--] she s an an . 
+
+                [ sentence 328 ] 
+ [-->] c est une amie a moi .
+ [===] she is a friend of mine .
+ [<--] she is a friend of mine . 
+
+                [ sentence 329 ] 
+ [-->] c est une autorite en matiere d humanites .
+ [===] he is an authority on the humanities .
+ [<--] he is an authority with money . 
+
+                [ sentence 330 ] 
+ [-->] c est une beaute .
+ [===] she s a cutie .
+ [<--] she is a beauty . 
+
+                [ sentence 331 ] 
+ [-->] c est une belle fille .
+ [===] she s a beauty .
+ [<--] she s a beauty . 
+
+                [ sentence 332 ] 
+ [-->] c est une belle jeune fille .
+ [===] she s a fine young lady .
+ [<--] she is a beauty young girl . 
+
+                [ sentence 333 ] 
+ [-->] c est une blonde .
+ [===] she s a dumb blonde .
+ [<--] she is a very writer . 
+
+                [ sentence 334 ] 
+ [-->] c est une bombe .
+ [===] she s a hottie .
+ [<--] she is a beauty . 
+
+                [ sentence 335 ] 
+ [-->] c est une bonne danseuse .
+ [===] she is a good dancer .
+ [<--] she is a good dancer . 
+
+                [ sentence 336 ] 
+ [-->] c est une bonne nageuse .
+ [===] she is a good swimmer .
+ [<--] she is a good dancer . 
+
+                [ sentence 337 ] 
+ [-->] c est une boule de nerfs .
+ [===] he s a nervous wreck .
+ [<--] he s a nervous of . . 
+
+                [ sentence 338 ] 
+ [-->] c est une celebre chanteuse .
+ [===] she is a famous singer .
+ [<--] she is a famous singer . 
+
+                [ sentence 339 ] 
+ [-->] c est une chanteuse pas banale .
+ [===] she is no ordinary singer .
+ [<--] she is no ordinary singer . 
+
+                [ sentence 340 ] 
+ [-->] c est une connaissance de ma femme .
+ [===] he is acquainted with my wife .
+ [<--] he is acquainted with my wife . 
+
+                [ sentence 341 ] 
+ [-->] c est une coriace .
+ [===] she s a tough one .
+ [<--] she s a tough one . 
+
+                [ sentence 342 ] 
+ [-->] c est une coureuse .
+ [===] she is a runner .
+ [<--] she s a bigot . 
+
+                [ sentence 343 ] 
+ [-->] c est une dactylographe .
+ [===] she is a typist .
+ [<--] she is a typist . 
+
+                [ sentence 344 ] 
+ [-->] c est une dure a cuire .
+ [===] she s one tough cookie .
+ [<--] she s a tough tough . 
+
+                [ sentence 345 ] 
+ [-->] c est une eleve de deuxieme annee .
+ [===] she is a second year student .
+ [<--] she is an independent student student . 
+
+                [ sentence 346 ] 
+ [-->] c est une enfant apres tout .
+ [===] she is a child after all .
+ [<--] she is a child after all . 
+
+                [ sentence 347 ] 
+ [-->] c est une enfoiree .
+ [===] she s a dog .
+ [<--] she is a bigot . 
+
+                [ sentence 348 ] 
+ [-->] c est une etudiante qui etudie serieusement .
+ [===] she is a student who studies very hard .
+ [<--] she is a very who built student . . . 
+                [ sentence 349 ] 
+ [-->] c est une excellente etudiante .
+ [===] she is an excellent student .
+ [<--] she is a student student . 
+
+                [ sentence 350 ] 
+ [-->] c est une femme autodidacte .
+ [===] she is a self educated woman .
+ [<--] she is a woman woman woman woman . 
+
+                [ sentence 351 ] 
+ [-->] c est une femme charmante .
+ [===] she is a charming woman .
+ [<--] she is a very woman woman . 
+
+                [ sentence 352 ] 
+ [-->] c est une femme d affaire a succes .
+ [===] she s a successful businesswoman .
+ [<--] she s a successful businesswoman . 
+
+                [ sentence 353 ] 
+ [-->] c est une femme d interieur accomplie .
+ [===] she s the perfect housewife .
+ [<--] she s a very beautiful . . 
+
+                [ sentence 354 ] 
+ [-->] c est une femme d une grande beaute .
+ [===] she is a woman of great beauty .
+ [<--] she is a beauty of a beauty . 
+
+                [ sentence 355 ] 
+ [-->] c est une femme determinee .
+ [===] she s a determined woman .
+ [<--] she s a determined woman . 
+
+                [ sentence 356 ] 
+ [-->] c est une femme forte .
+ [===] she s a tough woman .
+ [<--] she s a wonderful woman . 
+
+                [ sentence 357 ] 
+ [-->] c est une femme jalouse .
+ [===] she s a jealous woman .
+ [<--] she s a jealous woman . 
+
+                [ sentence 358 ] 
+ [-->] c est une femme magnifique .
+ [===] she is a wonderful wife .
+ [<--] she is a wonderful woman . 
+
+                [ sentence 359 ] 
+ [-->] c est une femme tranquille .
+ [===] she is a quiet woman .
+ [<--] she is a very woman . 
+
+                [ sentence 360 ] 
+ [-->] c est une fille blonde .
+ [===] she is a blonde girl .
+ [<--] she is a lovely girl . 
+
+                [ sentence 361 ] 
+ [-->] c est une fille honnete .
+ [===] she s an honest girl .
+ [<--] she is an honest girl . 
+
+                [ sentence 362 ] 
+ [-->] c est une fille intelligente .
+ [===] she s a smart girl .
+ [<--] she is a intelligent girl . 
+
+                [ sentence 363 ] 
+ [-->] c est une fille intelligente et independante .
+ [===] she s a smart and independent girl .
+ [<--] she is a intelligent and attractive girl . 
+
+                [ sentence 364 ] 
+ [-->] c est une fille mais elle est brave .
+ [===] she s a girl but she s brave .
+ [<--] she s a lovely but she s brave . 
+
+                [ sentence 365 ] 
+ [-->] c est une fille mignonne .
+ [===] she is a pretty girl .
+ [<--] she is a pretty girl . 
+
+                [ sentence 366 ] 
+ [-->] c est une fille obstinee .
+ [===] she is an obstinate girl .
+ [<--] she is a wonderful girl . 
+
+                [ sentence 367 ] 
+ [-->] c est une fille seduisante .
+ [===] she s a glamorous girl .
+ [<--] she is a glamorous girl . 
+
+                [ sentence 368 ] 
+ [-->] c est une fille si adorable !
+ [===] she s such a lovely girl !
+ [<--] she s a lovely girl girl girl . 
+
+                [ sentence 369 ] 
+ [-->] c est une fille tres chouette .
+ [===] she s a very nice girl .
+ [<--] she s a very nice girl . 
+
+                [ sentence 370 ] 
+ [-->] c est une fille tres gentille .
+ [===] she s a very nice girl .
+ [<--] she is a very nice girl . 
+
+                [ sentence 371 ] 
+ [-->] c est une fondue de tricot .
+ [===] she is really into knitting .
+ [<--] she is really into knitting . 
+
+                [ sentence 372 ] 
+ [-->] c est une gentille fille .
+ [===] she is a kind girl .
+ [<--] she s a very kind girl . 
+
+                [ sentence 373 ] 
+ [-->] c est une gentille personne .
+ [===] he is a nice person .
+ [<--] he is a very person . 
+
+                [ sentence 374 ] 
+ [-->] c est une infirmiere attitree .
+ [===] she is qualified as a nurse .
+ [<--] she is as beautiful knitting . 
+
+                [ sentence 375 ] 
+ [-->] c est une jeune femme tres intelligente .
+ [===] she is a very intelligent young lady .
+ [<--] she is a very intelligent young lady . 
+
+                [ sentence 376 ] 
+ [-->] c est une jeune fille assez maligne .
+ [===] she is quite a clever girl .
+ [<--] she is a pretty young clever girl girl . 
+
+                [ sentence 377 ] 
+ [-->] c est une jeune fille intelligente .
+ [===] she s an intelligent young woman .
+ [<--] she is a intelligent young lady . 
+
+                [ sentence 378 ] 
+ [-->] c est une jumelle .
+ [===] she is a twin .
+ [<--] she is a beauty . 
+
+                [ sentence 379 ] 
+ [-->] c est une mauvaise personne .
+ [===] he is a bad person .
+ [<--] she is a bad person . 
+
+                [ sentence 380 ] 
+ [-->] c est une personne adorable .
+ [===] he is a lovable person .
+ [<--] he is a lovely person . 
+
+                [ sentence 381 ] 
+ [-->] c est une personne agressive .
+ [===] he is an aggressive person .
+ [<--] he is a lovely person . 
+
+                [ sentence 382 ] 
+ [-->] c est une personne de confiance .
+ [===] she is a reliable person .
+ [<--] she is a reliable person . 
+
+                [ sentence 383 ] 
+ [-->] c est une personne fiable .
+ [===] she is a reliable person .
+ [<--] she is a reliable person . 
+
+                [ sentence 384 ] 
+ [-->] c est une personne particulierement interessante .
+ [===] she is a particularily interesting person .
+ [<--] she is a particularily interesting person . 
+
+                [ sentence 385 ] 
+ [-->] c est une personne sympathique .
+ [===] he is a friendly person .
+ [<--] he is a friendly person . 
+
+                [ sentence 386 ] 
+ [-->] c est une personne terriblement faineante .
+ [===] he is such a lazy fellow .
+ [<--] he is a a singer person person . 
+
+                [ sentence 387 ] 
+ [-->] c est une personne tres attentionnee .
+ [===] he is a very thoughtful person .
+ [<--] he is a very thoughtful person . 
+
+                [ sentence 388 ] 
+ [-->] c est une personne tres sympa .
+ [===] she is a very nice person .
+ [<--] she is a very nice person . 
+
+                [ sentence 389 ] 
+ [-->] c est une pietre cuisiniere .
+ [===] she is a poor cook .
+ [<--] she is a poor good . 
+
+                [ sentence 390 ] 
+ [-->] c est une pointure dans son domaine .
+ [===] he s a leading authority in his field .
+ [<--] he s a leading authority in his field . 
+
+                [ sentence 391 ] 
+ [-->] c est une puissante sorciere .
+ [===] she s a powerful witch .
+ [<--] she s an powerful . 
+
+                [ sentence 392 ] 
+ [-->] c est une sommite dans son domaine .
+ [===] he s a leading authority in his field .
+ [<--] he s a leading authority in his field . 
+
+                [ sentence 393 ] 
+ [-->] c est une sorte de peintre .
+ [===] he is a sort of painter .
+ [<--] he is a reliable painter painter . 
+
+                [ sentence 394 ] 
+ [-->] c est une taquine .
+ [===] she s a big teaser .
+ [<--] she s a beauty . 
+
+                [ sentence 395 ] 
+ [-->] c est une tres belle dame .
+ [===] she is a most beautiful lady .
+ [<--] she is a very beautiful lady . 
+
+                [ sentence 396 ] 
+ [-->] c est une tres belle fille .
+ [===] she s a really nice girl .
+ [<--] she s a very nice girl . 
+
+                [ sentence 397 ] 
+ [-->] c est une tres chouette fille .
+ [===] she s a very nice girl .
+ [<--] she s a very nice girl . 
+
+                [ sentence 398 ] 
+ [-->] c est une tres gentille fille .
+ [===] she s a very nice girl .
+ [<--] she s a very nice girl . 
+
+                [ sentence 399 ] 
+ [-->] c est une veritable artiste .
+ [===] she s a true artist .
+ [<--] she s a true artist . 
+
+                [ sentence 400 ] 
+ [-->] c est une violoniste d une certaine renommee .
+ [===] she s a violinist of some renown .
+ [<--] she s a violinist of some renown . 
+
+                [ sentence 401 ] 
+ [-->] c est une voisine des plus courtoises .
+ [===] she is a most gracious neighbor .
+ [<--] she is a most forty forty . 
+
+                [ sentence 402 ] 
+ [-->] c est une vraie beaute .
+ [===] she is a real beauty .
+ [<--] she is a beauty beauty . 
+
+                [ sentence 403 ] 
+ [-->] c est une vraie commere .
+ [===] she s a real gossip .
+ [<--] she s a real gossip . 
+
+                [ sentence 404 ] 
+ [-->] c est une vraie concierge .
+ [===] she s a real gossip .
+ [<--] she s a real gossip . 
+
+                [ sentence 405 ] 
+ [-->] c est une vraie loque .
+ [===] he s a total wreck .
+ [<--] she s a total wreck . 
+
+                [ sentence 406 ] 
+ [-->] c est votre ami .
+ [===] he s your friend .
+ [<--] he s your friend . 
+
+                [ sentence 407 ] 
+ [-->] c est votre fils .
+ [===] he s your son .
+ [<--] he s your son . 
+
+                [ sentence 408 ] 
+ [-->] c est vous l aine .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 409 ] 
+ [-->] c est vous l ainee .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 410 ] 
+ [-->] c est vous l enseignant .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 411 ] 
+ [-->] c est vous l enseignante .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 412 ] 
+ [-->] c est vous l instituteur .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 413 ] 
+ [-->] c est vous l institutrice .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 414 ] 
+ [-->] c est vous la chef .
+ [===] you re the leader .
+ [<--] you re the leader . 
+
+                [ sentence 415 ] 
+ [-->] c est vous la doyenne .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 416 ] 
+ [-->] c est vous la maitresse .
+ [===] you re the master .
+ [<--] you re the master . 
+
+                [ sentence 417 ] 
+ [-->] c est vous la plus vieille .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 418 ] 
+ [-->] c est vous la professeur .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 419 ] 
+ [-->] c est vous le chef .
+ [===] you re the leader .
+ [<--] you re the boss . 
+
+                [ sentence 420 ] 
+ [-->] c est vous le doyen .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 421 ] 
+ [-->] c est vous le maitre .
+ [===] you re the master .
+ [<--] you re the master . 
+
+                [ sentence 422 ] 
+ [-->] c est vous le plus vieux .
+ [===] you re the oldest .
+ [<--] you re the oldest . 
+
+                [ sentence 423 ] 
+ [-->] c est vous le professeur .
+ [===] you re the teacher .
+ [<--] you re the teacher . 
+
+                [ sentence 424 ] 
+ [-->] c est vous le professionnel .
+ [===] you re the pro .
+ [<--] you re the oldest . 
+
+                [ sentence 425 ] 
+ [-->] c est vous les proprietaires .
+ [===] you re the owners .
+ [<--] you re the owners . 
+
+                [ sentence 426 ] 
+ [-->] c est vous qui avez plante cet arbre .
+ [===] you re the one who planted that tree .
+ [<--] you re the one who planted that tree . 
+
+                [ sentence 427 ] 
+ [-->] c est vous qui m avez entraine .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 428 ] 
+ [-->] c est vous qui m avez entrainee .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 429 ] 
+ [-->] c est vous qui m avez forme .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 430 ] 
+ [-->] c est vous qui m avez formee .
+ [===] you re the one who trained me .
+ [<--] you re the one who trained me . 
+
+                [ sentence 431 ] 
+ [-->] c est vous qui vous vous etes emballe .
+ [===] you re the one that went crazy .
+ [<--] you re the one that went crazy . 
+
+                [ sentence 432 ] 
+ [-->] c est vous qui vous vous etes emballee .
+ [===] you re the one that went crazy .
+ [<--] you re the one that went crazy . 
+
+                [ sentence 433 ] 
+ [-->] c est vraiment un bon travailleur .
+ [===] he is a really good worker .
+ [<--] he is a really good worker worker . 
+
+                [ sentence 434 ] 
+ [-->] c est vraiment un homme de parole .
+ [===] he is indeed a man of his word .
+ [<--] he is indeed a man of his word . 
+
+                [ sentence 435 ] 
+ [-->] c est vraiment une bonne fille .
+ [===] she is a really good girl .
+ [<--] she is really a good girl girl . 
+
+                [ sentence 436 ] 
+ [-->] c est vraiment une fille adorable .
+ [===] she is indeed a lovely girl .
+ [<--] she is indeed a lovely girl . 
+
+                [ sentence 437 ] 
+ [-->] c est vraiment une gentille fille .
+ [===] she is really a nice girl .
+ [<--] she is really a nice girl . 
+
+                [ sentence 438 ] 
+ [-->] c etaient des jeunes gens habituels .
+ [===] they are typical young people .
+ [<--] they are typical young people . 
+
+                [ sentence 439 ] 
+ [-->] ca colle pour moi .
+ [===] i m fine with it .
+ [<--] i m fine for it . 
+
+                [ sentence 440 ] 
+ [-->] ca fait dix ans qu il est mort .
+ [===] he s been dead ten years .
+ [<--] he is been teaching for . 
+
+                [ sentence 441 ] 
+ [-->] ca me fatigue .
+ [===] i m getting tired of this .
+ [<--] i m getting tired . 
+
+                [ sentence 442 ] 
+ [-->] ca me plait beaucoup .
+ [===] i am very happy with it .
+ [<--] i m very drawn . 
+
+                [ sentence 443 ] 
+ [-->] ca me pompe .
+ [===] i m getting tired of this .
+ [<--] i m getting tired of this . 
+
+                [ sentence 444 ] 
+ [-->] ca me rend triste d entendre ca .
+ [===] i am sad to hear it .
+ [<--] i m not that to hear that . 
+
+                [ sentence 445 ] 
+ [-->] ca me va .
+ [===] i m fine with it .
+ [<--] i m fine . 
+
+                [ sentence 446 ] 
+ [-->] ca ne m amuse pas .
+ [===] i m not amused .
+ [<--] i m not going to 
+
+                [ sentence 447 ] 
+ [-->] ca ne me fait pas peur .
+ [===] i m not scared .
+ [<--] i m not scared scared . 
+
+                [ sentence 448 ] 
+ [-->] ca ne nous fait pas rire .
+ [===] we are not amused .
+ [<--] we are not going to 
+
+                [ sentence 449 ] 
+ [-->] ca ne te reussit pas .
+ [===] you re not good at this .
+ [<--] you re not good at this . 
+
+                [ sentence 450 ] 
+ [-->] ca ne vous reussit pas .
+ [===] you re not good at this .
+ [<--] you re not good at this . 
+
+                [ sentence 451 ] 
+ [-->] ca va .
+ [===] i m ok .
+ [<--] i m fine . 
+
+                [ sentence 452 ] 
+ [-->] ca va aller .
+ [===] i m going to be all right .
+ [<--] i m going to be all right . 
+
+                [ sentence 453 ] 
+ [-->] ca va merci .
+ [===] i m fine thank you .
+ [<--] i m fine it . 
+
+                [ sentence 454 ] 
+ [-->] ca va pas le faire .
+ [===] we re not gonna make it .
+ [<--] we re not going it . 
+
+                [ sentence 455 ] 
+ [-->] ce n est pas du tout un gentleman .
+ [===] he is not at all a gentleman .
+ [<--] he is not at at all gentleman . 
+
+                [ sentence 456 ] 
+ [-->] ce n est pas moi le probleme .
+ [===] i m not the problem .
+ [<--] i m not the problem problem . 
+
+                [ sentence 457 ] 
+ [-->] ce n est pas mon cousin .
+ [===] he isn t my cousin .
+ [<--] i m not my cousin . 
+
+                [ sentence 458 ] 
+ [-->] ce n est pas toi qui dirige .
+ [===] you re not in charge .
+ [<--] you re not in charge . 
+
+                [ sentence 459 ] 
+ [-->] ce n est pas un ami a moi .
+ [===] he is no friend of mine .
+ [<--] she is no friend of mine . 
+
+                [ sentence 460 ] 
+ [-->] ce n est pas un de mes amis .
+ [===] he is no friend of mine .
+ [<--] he is no friend of of mine . 
+
+                [ sentence 461 ] 
+ [-->] ce n est pas un eleve ordinaire .
+ [===] he is no ordinary student .
+ [<--] he is no ordinary student . 
+
+                [ sentence 462 ] 
+ [-->] ce n est pas un gentleman .
+ [===] he is no gentleman .
+ [<--] he is no a gentleman . 
+
+                [ sentence 463 ] 
+ [-->] ce n est pas un heros .
+ [===] he s not a hero .
+ [<--] he s not a hero . 
+
+                [ sentence 464 ] 
+ [-->] ce n est pas un homme ordinaire .
+ [===] he is no ordinary man .
+ [<--] he is no ordinary man . 
+
+                [ sentence 465 ] 
+ [-->] ce n est pas un mauvais bougre .
+ [===] he s not a bad guy .
+ [<--] he s not a good student . 
+
+                [ sentence 466 ] 
+ [-->] ce n est pas un mauvais garcon .
+ [===] he s not a bad boy .
+ [<--] he s not a bad boy . 
+
+                [ sentence 467 ] 
+ [-->] ce n est pas un menteur .
+ [===] he s not a liar .
+ [<--] he s not a liar . 
+
+                [ sentence 468 ] 
+ [-->] ce n est pas un saint .
+ [===] he s no saint .
+ [<--] he s no saint . 
+
+                [ sentence 469 ] 
+ [-->] ce n est pas une beaute .
+ [===] she is no beauty .
+ [<--] she is no beauty . 
+
+                [ sentence 470 ] 
+ [-->] ce n est pas une chanteuse ordinaire .
+ [===] she is no ordinary singer .
+ [<--] she is no ordinary singer . 
+
+                [ sentence 471 ] 
+ [-->] ce n est pas une eleve ordinaire .
+ [===] she is no ordinary student .
+ [<--] she is no ordinary student . 
+
+                [ sentence 472 ] 
+ [-->] ce n est pas une enfant .
+ [===] she s not a child .
+ [<--] she s not a child . 
+
+                [ sentence 473 ] 
+ [-->] ce n est pas une mauvaise fille .
+ [===] she s not a bad girl .
+ [<--] she s not a girl girl . 
+
+                [ sentence 474 ] 
+ [-->] ce n est pas une menteuse .
+ [===] she s not a liar .
+ [<--] she s not a liar . 
+
+                [ sentence 475 ] 
+ [-->] ce n est pas vous qui dirigez .
+ [===] you re not in charge .
+ [<--] you re not in charge . 
+
+                [ sentence 476 ] 
+ [-->] ce n est plus un enfant .
+ [===] he is no longer a child .
+ [<--] she is not a child child . 
+
+                [ sentence 477 ] 
+ [-->] ce n est qu un enfant .
+ [===] he is just a kid .
+ [<--] he is just a child . 
+
+                [ sentence 478 ] 
+ [-->] ce n est qu un menteur .
+ [===] he s just a liar .
+ [<--] he s just a liar . 
+
+                [ sentence 479 ] 
+ [-->] ce n est qu une enfant .
+ [===] she s just a child .
+ [<--] she is only a child child . 
+
+                [ sentence 480 ] 
+ [-->] ce n est rien qu une enfant .
+ [===] she is nothing but a child .
+ [<--] she is nothing only a child . 
+
+                [ sentence 481 ] 
+ [-->] ce ne sont pas des criminelles .
+ [===] they re not criminals .
+ [<--] they re not criminals . 
+
+                [ sentence 482 ] 
+ [-->] ce ne sont pas des criminels .
+ [===] they re not criminals .
+ [<--] they re not criminals . 
+
+                [ sentence 483 ] 
+ [-->] ce ne sont pas les miens .
+ [===] they re not mine .
+ [<--] they re not mine . 
+
+                [ sentence 484 ] 
+ [-->] ce ne sont pas mes amis .
+ [===] they re not my friends .
+ [<--] they re not my friends . 
+
+                [ sentence 485 ] 
+ [-->] ce ne sont pas mes prisonniers .
+ [===] they re not my prisoners .
+ [<--] they re not my prisoners . 
+
+                [ sentence 486 ] 
+ [-->] ce ne sont pas mes regles .
+ [===] they re not my rules .
+ [<--] they re not my age . 
+
+                [ sentence 487 ] 
+ [-->] ce ne sont pas tous des criminels .
+ [===] they re not all criminals .
+ [<--] they re all the prisoners . 
+
+                [ sentence 488 ] 
+ [-->] ce ne sont que des etudiantes .
+ [===] they re just students .
+ [<--] they re just students . 
+
+                [ sentence 489 ] 
+ [-->] ce ne sont que des etudiants .
+ [===] they re just students .
+ [<--] they re just students . 
+
+                [ sentence 490 ] 
+ [-->] ce ne sont que des mots .
+ [===] they re just words .
+ [<--] they re just words . 
+
+                [ sentence 491 ] 
+ [-->] ce sont celles qui veulent partir .
+ [===] they are the ones who want to go .
+ [<--] they are the ones who want to go . 
+
+                [ sentence 492 ] 
+ [-->] ce sont celles qui veulent s y rendre .
+ [===] they are the ones who want to go .
+ [<--] they re the ones who want to go . 
+
+                [ sentence 493 ] 
+ [-->] ce sont celles qui veulent y aller .
+ [===] they are the ones who want to go .
+ [<--] they are the ones who want to go . 
+
+                [ sentence 494 ] 
+ [-->] ce sont ceux qui veulent partir .
+ [===] they are the ones who want to go .
+ [<--] they are the ones who want to go . 
+
+                [ sentence 495 ] 
+ [-->] ce sont ceux qui veulent s y rendre .
+ [===] they are the ones who want to go .
+ [<--] they are the ones who want to go . 
+
+                [ sentence 496 ] 
+ [-->] ce sont ceux qui veulent y aller .
+ [===] they are the ones who want to go .
+ [<--] they are the ones who want to go . 
+
+                [ sentence 497 ] 
+ [-->] ce sont de bonnes gens .
+ [===] they are good people .
+ [<--] they are good people . 
+
+                [ sentence 498 ] 
+ [-->] ce sont de chics types .
+ [===] they re nice guys .
+ [<--] they re nice guys . 
+
+                [ sentence 499 ] 
+ [-->] ce sont de tres grosses pommes .
+ [===] they are very big apples .
+ [<--] they are very big apples . 
+
+                [ sentence 500 ] 
+ [-->] ce sont des affaires dont nous devons parler .
+ [===] they are matters which we need to discuss .
+ [<--] they re talking to us to 
+
+                [ sentence 501 ] 
+ [-->] ce sont des amies tres proches .
+ [===] they re very close friends .
+ [<--] they re very close friends . 
+
+                [ sentence 502 ] 
+ [-->] ce sont des amis tres proches .
+ [===] they re very close friends .
+ [<--] they re very close friends . 
+
+                [ sentence 503 ] 
+ [-->] ce sont des animaux .
+ [===] they re animals .
+ [<--] they re animals . 
+
+                [ sentence 504 ] 
+ [-->] ce sont des bebes .
+ [===] they re babies .
+ [<--] they re mine . 
+
+                [ sentence 505 ] 
+ [-->] ce sont des cannibales .
+ [===] they re cannibals .
+ [<--] they are our . 
+
+                [ sentence 506 ] 
+ [-->] ce sont des chretiennes .
+ [===] they are christians .
+ [<--] they are christians . 
+
+                [ sentence 507 ] 
+ [-->] ce sont des chretiens .
+ [===] they are christians .
+ [<--] they re christians . 
+
+                [ sentence 508 ] 
+ [-->] ce sont des eleves .
+ [===] they re students .
+ [<--] they re students . 
+
+                [ sentence 509 ] 
+ [-->] ce sont des employees a temps partiel .
+ [===] they re part time employees .
+ [<--] they re part time . 
+
+                [ sentence 510 ] 
+ [-->] ce sont des employes a temps partiel .
+ [===] they re part time employees .
+ [<--] they re part time . 
+
+                [ sentence 511 ] 
+ [-->] ce sont des espionnes .
+ [===] they re spies .
+ [<--] they re downstairs . 
+
+                [ sentence 512 ] 
+ [-->] ce sont des espions .
+ [===] they re spies .
+ [<--] they re downstairs . 
+
+                [ sentence 513 ] 
+ [-->] ce sont des etudiantes .
+ [===] they re students .
+ [<--] they re students . 
+
+                [ sentence 514 ] 
+ [-->] ce sont des etudiants .
+ [===] they re students .
+ [<--] they re students . 
+
+                [ sentence 515 ] 
+ [-->] ce sont des etudiants capables .
+ [===] they re able students .
+ [<--] they re students students . 
+
+                [ sentence 516 ] 
+ [-->] ce sont des flics .
+ [===] they re cops .
+ [<--] they re cops . 
+
+                [ sentence 517 ] 
+ [-->] ce sont des garcons .
+ [===] they re boys .
+ [<--] they re downstairs . 
+
+                [ sentence 518 ] 
+ [-->] ce sont des idees que tu te fais .
+ [===] you are imagining things .
+ [<--] you re imagining things . 
+
+                [ sentence 519 ] 
+ [-->] ce sont des illets .
+ [===] they re carnations .
+ [<--] they re downstairs . 
+
+                [ sentence 520 ] 
+ [-->] ce sont des jeunes filles serieuses .
+ [===] they are sensible girls .
+ [<--] they are teachers girls . 
+
+                [ sentence 521 ] 
+ [-->] ce sont des melons .
+ [===] they are melons .
+ [<--] they are students . 
+
+                [ sentence 522 ] 
+ [-->] ce sont des personnes pacifiques .
+ [===] they are a peace loving people .
+ [<--] they re a big person . 
+
+                [ sentence 523 ] 
+ [-->] ce sont des traitres .
+ [===] they re traitors .
+ [<--] they re traitors . 
+
+                [ sentence 524 ] 
+ [-->] ce sont deux choses absolument differentes .
+ [===] they re two very different things .
+ [<--] they re making the very child . 
+
+                [ sentence 525 ] 
+ [-->] ce sont juste des etudiantes .
+ [===] they re just students .
+ [<--] they re just students . 
+
+                [ sentence 526 ] 
+ [-->] ce sont juste des etudiants .
+ [===] they re just students .
+ [<--] they re just students . 
+
+                [ sentence 527 ] 
+ [-->] ce sont les miennes .
+ [===] they re mine .
+ [<--] they re mine . 
+
+                [ sentence 528 ] 
+ [-->] ce sont les miens .
+ [===] they re mine .
+ [<--] they re mine . 
+
+                [ sentence 529 ] 
+ [-->] ce sont mes amies .
+ [===] they are my friends .
+ [<--] they are my friends . 
+
+                [ sentence 530 ] 
+ [-->] ce sont mes amis .
+ [===] they are my friends .
+ [<--] they are my friends . 
+
+                [ sentence 531 ] 
+ [-->] ce sont mes camarades de classe .
+ [===] they are my classmates .
+ [<--] they re my class . 
+
+                [ sentence 532 ] 
+ [-->] ce sont tous des enfants innocents .
+ [===] they are all innocent children .
+ [<--] they are all tourists children . 
+
+                [ sentence 533 ] 
+ [-->] ce sont tous des etudiants de la fac .
+ [===] they are all college students .
+ [<--] they are all college students . 
+
+                [ sentence 534 ] 
+ [-->] ce sont tous des menteurs .
+ [===] they re all liars .
+ [<--] they re all liars . 
+
+                [ sentence 535 ] 
+ [-->] ce sont tous des touristes .
+ [===] they re all tourists .
+ [<--] they re all tourists . 
+
+                [ sentence 536 ] 
+ [-->] ce sont tous des voleurs .
+ [===] they re all thieves .
+ [<--] they re all tourists . 
+
+                [ sentence 537 ] 
+ [-->] ce sont tous deux des collegues a moi .
+ [===] they are both colleagues of mine .
+ [<--] they re both of . 
+
+                [ sentence 538 ] 
+ [-->] ce sont tous les deux de bons professeurs .
+ [===] they are both good teachers .
+ [<--] they are both good teachers . 
+
+                [ sentence 539 ] 
+ [-->] ce sont tous les miens .
+ [===] they re all mine .
+ [<--] they re all mine . 
+
+                [ sentence 540 ] 
+ [-->] ce sont toutes des etudiantes de la fac .
+ [===] they are all college students .
+ [<--] they are all college students . 
+
+                [ sentence 541 ] 
+ [-->] ce sont toutes des menteuses .
+ [===] they re all liars .
+ [<--] they re all liars . 
+
+                [ sentence 542 ] 
+ [-->] ce sont toutes des touristes .
+ [===] they re all tourists .
+ [<--] they re all tourists . 
+
+                [ sentence 543 ] 
+ [-->] ce sont toutes des voleuses .
+ [===] they re all thieves .
+ [<--] they re all tourists . 
+
+                [ sentence 544 ] 
+ [-->] ce sont toutes les miennes .
+ [===] they re all mine .
+ [<--] they re all mine . 
+
+                [ sentence 545 ] 
+ [-->] ce sont toutes mes affaires personnelles .
+ [===] they are all my personal belongings .
+ [<--] they re all my best s . 
+
+                [ sentence 546 ] 
+ [-->] ceci m est indifferent .
+ [===] i am not concerned with this .
+ [<--] i am not concerned with this . 
+
+                [ sentence 547 ] 
+ [-->] ceci m indiffere .
+ [===] i am not concerned with this .
+ [<--] i am not concerned with this . 
+
+                [ sentence 548 ] 
+ [-->] cela fait vingt ans qu il enseigne .
+ [===] he s been teaching for years .
+ [<--] he s been teaching for three years . 
+
+                [ sentence 549 ] 
+ [-->] cela m inquiete .
+ [===] i m worried about it .
+ [<--] i m worried about it . 
+
+                [ sentence 550 ] 
+ [-->] cela m intrigue .
+ [===] i m intrigued .
+ [<--] i m interested . 
+
+                [ sentence 551 ] 
+ [-->] cela me depasse completement .
+ [===] i m in way over my head .
+ [<--] i m in way over . 
+
+                [ sentence 552 ] 
+ [-->] cela me preoccupe .
+ [===] i m concerned about it .
+ [<--] i m concerned about it . 
+
+                [ sentence 553 ] 
+ [-->] ces nouvelles chaussures sont inconfortables .
+ [===] i am uncomfortable in these new shoes .
+ [<--] i am living with shoes . 
+
+                [ sentence 554 ] 
+ [-->] ces problemes ne nous menent a rien .
+ [===] we re getting nowhere with those problems .
+ [<--] we re getting nowhere with those problems problems . 
+
+                [ sentence 555 ] 
+ [-->] cet endroit va me manquer .
+ [===] i m going to miss this place .
+ [<--] i m going to miss right now . 
+
+                [ sentence 556 ] 
+ [-->] chacun de nous te fait confiance .
+ [===] you are trusted by every one of us .
+ [<--] you re trusted by by every one . 
+
+                [ sentence 557 ] 
+ [-->] classer les choses n est pas mon fort .
+ [===] i m not good at classifying things .
+ [<--] i m not the the wrong . 
+
+                [ sentence 558 ] 
+ [-->] comme tu es mignonne .
+ [===] you are so cute .
+ [<--] you are so cute . 
+
+                [ sentence 559 ] 
+ [-->] de rien !
+ [===] you re welcome .
+ [<--] i m not kidding ! 
+
+                [ sentence 560 ] 
+ [-->] de toute facon on va tous mourir .
+ [===] we re all going to die anyway .
+ [<--] we re all going to die anyway . 
+
+                [ sentence 561 ] 
+ [-->] demain je jouerai au football .
+ [===] i am going to play soccer tomorrow .
+ [<--] i am going to play soccer tomorrow . 
+
+                [ sentence 562 ] 
+ [-->] demain je ne vais pas au cinema .
+ [===] i m not going to the movies tomorrow .
+ [<--] i m not going to the the tomorrow . 
+
+                [ sentence 563 ] 
+ [-->] desole !
+ [===] i m sorry .
+ [<--] i m sorry . 
+
+                [ sentence 564 ] 
+ [-->] desole .
+ [===] i m sorry .
+ [<--] i m sorry . 
+
+                [ sentence 565 ] 
+ [-->] desole d etre si stupide .
+ [===] i m sorry i m so stupid .
+ [<--] i m sorry i m so stupid . 
+
+                [ sentence 566 ] 
+ [-->] desole de ce que j ai fait .
+ [===] i m sorry for what i did .
+ [<--] i m sorry what i did that . 
+
+                [ sentence 567 ] 
+ [-->] desole j ai perdu mon sang froid .
+ [===] i m sorry i lost my temper .
+ [<--] i m sorry i lost my lost . 
+
+                [ sentence 568 ] 
+ [-->] desole si je vous ai fait peur .
+ [===] i m sorry if i scared you .
+ [<--] i m sorry if i scared you . 
+
+                [ sentence 569 ] 
+ [-->] desormais j ai des ennuis .
+ [===] i m in trouble now .
+ [<--] i m in trouble now . 
+
+                [ sentence 570 ] 
+ [-->] elle a a peu pres mon age .
+ [===] she is about my age .
+ [<--] she is about my age . 
+
+                [ sentence 571 ] 
+ [-->] elle a ans .
+ [===] she is thirty one .
+ [<--] she is thirty one . 
+
+                [ sentence 572 ] 
+ [-->] elle a aux alentours de vingt ans .
+ [===] she is around twenty years of age .
+ [<--] she is able twenty years years age . 
+
+                [ sentence 573 ] 
+ [-->] elle a beaucoup de succes aupres des garcons .
+ [===] she is very popular among the boys .
+ [<--] she is very fond of the hard of 
+
+                [ sentence 574 ] 
+ [-->] elle a besoin d aide .
+ [===] she is in need of help .
+ [<--] she s need to help . 
+
+                [ sentence 575 ] 
+ [-->] elle a certainement plus de quarante ans .
+ [===] she is certainly over forty .
+ [<--] she is certainly above forty . 
+
+                [ sentence 576 ] 
+ [-->] elle a cinq ans de moins que moi .
+ [===] she s five years younger than me .
+ [<--] she is five years younger than me . 
+
+                [ sentence 577 ] 
+ [-->] elle a de l assurance .
+ [===] she s assertive .
+ [<--] she s open . 
+
+                [ sentence 578 ] 
+ [-->] elle a de si beaux yeux .
+ [===] she s got such lovely eyes .
+ [<--] she s got such such guy . 
+
+                [ sentence 579 ] 
+ [-->] elle a deux ans de moins que moi .
+ [===] she is two years younger than me .
+ [<--] she is two years younger than me . 
+
+                [ sentence 580 ] 
+ [-->] elle a deux ans de plus que lui .
+ [===] she s two years older than him .
+ [<--] she s two years older than him . 
+
+                [ sentence 581 ] 
+ [-->] elle a deux ans de plus que toi .
+ [===] she is two years older than you .
+ [<--] she is two years older than you . 
+
+                [ sentence 582 ] 
+ [-->] elle a deux ans de plus que vous .
+ [===] she is two years older than you .
+ [<--] she is two years older than you . 
+
+                [ sentence 583 ] 
+ [-->] elle a divorce .
+ [===] she s divorced .
+ [<--] she is divorced . 
+
+                [ sentence 584 ] 
+ [-->] elle a dix huit ans au plus .
+ [===] she is eighteen at most .
+ [<--] she is getting at the older . 
+
+                [ sentence 585 ] 
+ [-->] elle a environ mon age .
+ [===] she is about my age .
+ [<--] she is about my age . 
+
+                [ sentence 586 ] 
+ [-->] elle a ete empoisonnee .
+ [===] she s been poisoned .
+ [<--] she s been poisoned . 
+
+                [ sentence 587 ] 
+ [-->] elle a eu une vie difficile .
+ [===] she s had a hard life .
+ [<--] she s wearing a hard . . 
+
+                [ sentence 588 ] 
+ [-->] elle a honte de s exprimer .
+ [===] she is ashamed to speak up .
+ [<--] she is ashamed to be up . 
+
+                [ sentence 589 ] 
+ [-->] elle a honte de ses vieux vetements .
+ [===] she is ashamed of her old clothes .
+ [<--] she is ashamed of her old clothes . 
+
+                [ sentence 590 ] 
+ [-->] elle a l air de venir .
+ [===] she is likely to come .
+ [<--] she is likely to come . 
+
+                [ sentence 591 ] 
+ [-->] elle a l esprit ouvert .
+ [===] she s open minded .
+ [<--] she s open minded . 
+
+                [ sentence 592 ] 
+ [-->] elle a l habitude de faire la cuisine .
+ [===] she is used to cooking .
+ [<--] she is used to cooking in the . 
+
+                [ sentence 593 ] 
+ [-->] elle a l habitude de voyager .
+ [===] she is used to traveling .
+ [<--] she is used to traveling mistakes . 
+
+                [ sentence 594 ] 
+ [-->] elle a l il pour la peinture .
+ [===] she s got a good eye for paintings .
+ [<--] she s got a for for eye for leeds . 
+                [ sentence 595 ] 
+ [-->] elle a la baraka .
+ [===] she s on a roll .
+ [<--] she s got a point . 
+
+                [ sentence 596 ] 
+ [-->] elle a la peau noire .
+ [===] she is dark skinned .
+ [<--] she s used to cold . 
+
+                [ sentence 597 ] 
+ [-->] elle a les pieds en dedans .
+ [===] she is pigeon toed .
+ [<--] she is fond and up . 
+
+                [ sentence 598 ] 
+ [-->] elle a loupe le coche .
+ [===] she s missed the boat .
+ [<--] she s learning the boat . 
+
+                [ sentence 599 ] 
+ [-->] elle a perdu la cle de sa voiture .
+ [===] she s lost her car key .
+ [<--] she is lost her car keys . 
+
+                [ sentence 600 ] 
+ [-->] elle a perdu les cles de sa voiture .
+ [===] she s lost her car keys .
+ [<--] she is lost her car keys . 
+
+                [ sentence 601 ] 
+ [-->] elle a perdu sa cle de voiture .
+ [===] she s lost her car key .
+ [<--] she is lost her car key . 
+
+                [ sentence 602 ] 
+ [-->] elle a perdu ses cles de voiture .
+ [===] she s lost her car keys .
+ [<--] she is lost her car keys . 
+
+                [ sentence 603 ] 
+ [-->] elle a peur de la nuit .
+ [===] she s afraid of the dark .
+ [<--] she s afraid of the dark . 
+
+                [ sentence 604 ] 
+ [-->] elle a peur de retomber malade .
+ [===] she is afraid of falling ill again .
+ [<--] she is afraid of sick sick . 
+
+                [ sentence 605 ] 
+ [-->] elle a peur des chats .
+ [===] she is afraid of cats .
+ [<--] she is afraid of cats . 
+
+                [ sentence 606 ] 
+ [-->] elle a peur des chiens .
+ [===] she s scared of dogs .
+ [<--] she s afraid of dogs . 
+
+                [ sentence 607 ] 
+ [-->] elle a peur des chiens qui aboient .
+ [===] she is afraid of barking dogs .
+ [<--] she is afraid of barking dogs . 
+
+                [ sentence 608 ] 
+ [-->] elle a peur du tonnerre .
+ [===] she is frightened of thunder .
+ [<--] she is afraid of thunder . 
+
+                [ sentence 609 ] 
+ [-->] elle a plus de livres .
+ [===] she s got more books .
+ [<--] she is sick of of . 
+
+                [ sentence 610 ] 
+ [-->] elle a promis qu elle allait m appeler .
+ [===] she s promised to give me a ring .
+ [<--] she s promised to give me like me ring . 
+                [ sentence 611 ] 
+ [-->] elle a six ans de plus que moi .
+ [===] she s six years older than i am .
+ [<--] she is six years older than me . 
+
+                [ sentence 612 ] 
+ [-->] elle a tort .
+ [===] she is wrong .
+ [<--] she is wrong . 
+
+                [ sentence 613 ] 
+ [-->] elle a tres peur des chiens .
+ [===] she s very afraid of dogs .
+ [<--] she s very afraid of dogs . 
+
+                [ sentence 614 ] 
+ [-->] elle a tres peur du noir .
+ [===] she is very afraid of the dark .
+ [<--] she is very afraid of the dark . 
+
+                [ sentence 615 ] 
+ [-->] elle a un argument .
+ [===] she s got a point .
+ [<--] she s wearing a hat . 
+
+                [ sentence 616 ] 
+ [-->] elle a une bonne nature .
+ [===] she is good natured .
+ [<--] she s good at driving . 
+
+                [ sentence 617 ] 
+ [-->] elle a une conception cynique de la vie .
+ [===] she is very cynical about life .
+ [<--] she is wearing a lovely in . . 
+
+                [ sentence 618 ] 
+ [-->] elle a une forte volonte .
+ [===] she s strong willed .
+ [<--] she s strong . 
+
+                [ sentence 619 ] 
+ [-->] elle a une peur bleue des chiens .
+ [===] she s very afraid of dogs .
+ [<--] she s very afraid of dogs . 
+
+                [ sentence 620 ] 
+ [-->] elle a une peur bleue des serpents .
+ [===] she s very afraid of snakes .
+ [<--] she s very afraid of snakes . 
+
+                [ sentence 621 ] 
+ [-->] elle adore chanter de vieilles chansons .
+ [===] she is fond of singing old songs .
+ [<--] she is fond of her new clothes . 
+
+                [ sentence 622 ] 
+ [-->] elle adore jouer au tennis .
+ [===] she is fond of playing tennis .
+ [<--] she is fond of playing tennis . 
+
+                [ sentence 623 ] 
+ [-->] elle adore les animaux .
+ [===] she is fond of animals .
+ [<--] she is fond of animals . 
+
+                [ sentence 624 ] 
+ [-->] elle adore les gateaux .
+ [===] she is fond of cake .
+ [<--] she is fond of the . . 
+
+                [ sentence 625 ] 
+ [-->] elle aime beaucoup les fleurs .
+ [===] she is very fond of flowers .
+ [<--] she is very fond of flowers . 
+
+                [ sentence 626 ] 
+ [-->] elle aime prendre des photos .
+ [===] she s fond of taking pictures .
+ [<--] she is fond of taking pictures . 
+
+                [ sentence 627 ] 
+ [-->] elle apprend a conduire une voiture .
+ [===] she is learning how to drive a car .
+ [<--] she is used to buy a car . 
+
+                [ sentence 628 ] 
+ [-->] elle apprend a jouer du piano .
+ [===] she is learning the piano .
+ [<--] she is used to the dark . 
+
+                [ sentence 629 ] 
+ [-->] elle attend famille .
+ [===] she s pregnant .
+ [<--] she s pregnant . 
+
+                [ sentence 630 ] 
+ [-->] elle attend un bebe pour juin .
+ [===] she is expecting a baby in june .
+ [<--] she is expecting a baby in money . 
+
+                [ sentence 631 ] 
+ [-->] elle attend un enfant .
+ [===] she is expecting a child .
+ [<--] she is expecting a child . 
+
+                [ sentence 632 ] 
+ [-->] elle attend un heureux evenement .
+ [===] she s pregnant .
+ [<--] she s expecting a hard . . 
+
+                [ sentence 633 ] 
+ [-->] elle chante les dernieres chansons populaires .
+ [===] she is singing the latest popular songs .
+ [<--] she is going to the the food . 
+
+                [ sentence 634 ] 
+ [-->] elle chante les derniers tubes .
+ [===] she is singing the latest popular songs .
+ [<--] she is wearing the the children . 
+
+                [ sentence 635 ] 
+ [-->] elle cherche les cles de sa voiture .
+ [===] she is looking for her car keys .
+ [<--] she is looking for her car keys . 
+
+                [ sentence 636 ] 
+ [-->] elle cherche ses cles de voiture .
+ [===] she is looking for her car keys .
+ [<--] she is lost for her car keys . 
+
+                [ sentence 637 ] 
+ [-->] elle cherche un meilleur emploi .
+ [===] she is after a better job .
+ [<--] she s looking for a better job . 
+
+                [ sentence 638 ] 
+ [-->] elle commence a m agacer !
+ [===] she s starting to annoy me .
+ [<--] she s starting to me me . 
+
+                [ sentence 639 ] 
+ [-->] elle connait bien l histoire du japon .
+ [===] she is familiar with japanese history .
+ [<--] she is familiar with japanese history . 
+
+                [ sentence 640 ] 
+ [-->] elle coud une robe .
+ [===] she is sewing a dress .
+ [<--] she is wearing a dress dress . 
+
+                [ sentence 641 ] 
+ [-->] elle creuse sa propre tombe .
+ [===] she s digging her own grave .
+ [<--] she is digging own own grave . 
+
+                [ sentence 642 ] 
+ [-->] elle demande comment c est possible .
+ [===] she s asking how that s possible .
+ [<--] she s asking how that s . 
+
+                [ sentence 643 ] 
+ [-->] elle demande l impossible .
+ [===] she s asking for the impossible .
+ [<--] she s asking for the impossible . 
+
+                [ sentence 644 ] 
+ [-->] elle depend de son epoux .
+ [===] she s dependent on her husband .
+ [<--] she s dependent on her husband . 
+
+                [ sentence 645 ] 
+ [-->] elle depend de son mari .
+ [===] she s dependent on her husband .
+ [<--] she s as her husband husband . 
+
+                [ sentence 646 ] 
+ [-->] elle devient de plus en plus belle .
+ [===] she is getting prettier .
+ [<--] she is beautiful in beautiful by . 
+
+                [ sentence 647 ] 
+ [-->] elle devient de plus en plus jolie .
+ [===] she is getting prettier and prettier .
+ [<--] she is getting prettier and prettier . 
+
+                [ sentence 648 ] 
+ [-->] elle donne a chaque enfant deux pommes .
+ [===] she s giving each child two apples .
+ [<--] she s giving each two two . 
+
+                [ sentence 649 ] 
+ [-->] elle donne une fete ce soir .
+ [===] she is giving a party tonight .
+ [<--] she is expecting night a old tonight . 
+
+                [ sentence 650 ] 
+ [-->] elle ecrit constamment des lettres .
+ [===] she is constantly writing letters .
+ [<--] she is making a his dress . 
+
+                [ sentence 651 ] 
+ [-->] elle ecrit des nouvelles .
+ [===] she is a short story writer .
+ [<--] she is living a children . 
+
+                [ sentence 652 ] 
+ [-->] elle ecrit une lettre maintenant .
+ [===] she is writing a letter now .
+ [<--] she is writing a letter letter . 
+
+                [ sentence 653 ] 
+ [-->] elle epluche des pommes de terre .
+ [===] she is peeling the potatoes .
+ [<--] she is making the . 
+
+                [ sentence 654 ] 
+ [-->] elle essaie de perdre du poids .
+ [===] she is trying to lose weight .
+ [<--] she is trying to lose weight . 
+
+                [ sentence 655 ] 
+ [-->] elle essaie toujours de lui faire plaisir .
+ [===] she is always trying to please him .
+ [<--] she is always trying to do up . . 
+
+                [ sentence 656 ] 
+ [-->] elle est a la mode .
+ [===] she s fashionable .
+ [<--] she s in . 
+
+                [ sentence 657 ] 
+ [-->] elle est a son hotel maintenant .
+ [===] she is in her hotel now .
+ [<--] she is in her hotel now . 
+
+                [ sentence 658 ] 
+ [-->] elle est absorbee par son travail d etude .
+ [===] she is absorbed in her study .
+ [<--] she is absorbed in her study . 
+
+                [ sentence 659 ] 
+ [-->] elle est accoutumee a veiller toute la nuit .
+ [===] she is used to staying up all night .
+ [<--] she s used to staying up all night . 
+
+                [ sentence 660 ] 
+ [-->] elle est active .
+ [===] she is active .
+ [<--] she is active . 
+
+                [ sentence 661 ] 
+ [-->] elle est actuellement a l hopital .
+ [===] she s in the hospital now .
+ [<--] she s in the hospital now . 
+
+                [ sentence 662 ] 
+ [-->] elle est adorable .
+ [===] she s adorable .
+ [<--] she s adorable . 
+
+                [ sentence 663 ] 
+ [-->] elle est affairee .
+ [===] she s busy with her work .
+ [<--] she is busy with me . 
+
+                [ sentence 664 ] 
+ [-->] elle est affairee comme une abeille .
+ [===] she is as busy as a bee .
+ [<--] she is as as as as a bee . 
+
+                [ sentence 665 ] 
+ [-->] elle est affreusement mauvaise en cuisine .
+ [===] she is an appalling cook .
+ [<--] she is an friendly but . . 
+
+                [ sentence 666 ] 
+ [-->] elle est affutee .
+ [===] she is sharp .
+ [<--] she is sharp . 
+
+                [ sentence 667 ] 
+ [-->] elle est agressive .
+ [===] she is aggressive .
+ [<--] she is aggressive . 
+
+                [ sentence 668 ] 
+ [-->] elle est aimee de ses amies .
+ [===] she s loved by her friends .
+ [<--] she is crazy by her mother . 
+
+                [ sentence 669 ] 
+ [-->] elle est aimee de ses amis .
+ [===] she s loved by her friends .
+ [<--] she s as good friends friends . 
+
+                [ sentence 670 ] 
+ [-->] elle est amicale avec tout le monde .
+ [===] she is friendly to everybody .
+ [<--] she is known to everyone . 
+
+                [ sentence 671 ] 
+ [-->] elle est amoureuse de lui .
+ [===] she is in love with him .
+ [<--] she is in love with him . 
+
+                [ sentence 672 ] 
+ [-->] elle est apparemment une honnete femme .
+ [===] she is apparently an honest woman .
+ [<--] she is an honest honest woman woman . 
+
+                [ sentence 673 ] 
+ [-->] elle est appreciee de tout le monde .
+ [===] she is well liked by everyone .
+ [<--] she is known to everyone . 
+
+                [ sentence 674 ] 
+ [-->] elle est apte pour le poste .
+ [===] she is fit for the job .
+ [<--] she s fit for the job . 
+
+                [ sentence 675 ] 
+ [-->] elle est asociale .
+ [===] she is unsociable .
+ [<--] she is innocent . 
+
+                [ sentence 676 ] 
+ [-->] elle est assez fachee .
+ [===] she is quite angry .
+ [<--] she is quite angry . 
+
+                [ sentence 677 ] 
+ [-->] elle est assez grande pour voyager toute seule .
+ [===] she is old enough to travel by herself .
+ [<--] she is old enough to travel by herself . 
+
+                [ sentence 678 ] 
+ [-->] elle est assez jeune pour etre ta fille .
+ [===] she s young enough to be your daughter .
+ [<--] she s your enough to be your daughter . 
+
+                [ sentence 679 ] 
+ [-->] elle est assise sur le banc .
+ [===] she s sitting on the bench .
+ [<--] she is sitting on the bench . 
+
+                [ sentence 680 ] 
+ [-->] elle est assise sur un banc .
+ [===] she is sitting on the bench .
+ [<--] she is sitting on the bench . 
+
+                [ sentence 681 ] 
+ [-->] elle est assuree d etre surprise .
+ [===] she is certain to be surprised .
+ [<--] she is certain to be surprised . 
+
+                [ sentence 682 ] 
+ [-->] elle est attirante .
+ [===] she is attractive .
+ [<--] she is attractive . 
+
+                [ sentence 683 ] 
+ [-->] elle est au courant de mon projet secret .
+ [===] she is aware of my secret plan .
+ [<--] she is aware of my my plan . 
+
+                [ sentence 684 ] 
+ [-->] elle est au lit enrhumee .
+ [===] she is in bed with a cold .
+ [<--] she is in bed with a cold . 
+
+                [ sentence 685 ] 
+ [-->] elle est au premier rang .
+ [===] she is first in line .
+ [<--] she is in in love . 
+
+                [ sentence 686 ] 
+ [-->] elle est au regime .
+ [===] she is dieting .
+ [<--] she is dieting . 
+
+                [ sentence 687 ] 
+ [-->] elle est au travail actuellement .
+ [===] she is at work right now .
+ [<--] she is at work with work . 
+
+                [ sentence 688 ] 
+ [-->] elle est au travail n est ce pas ?
+ [===] she s at work isn t she ?
+ [<--] she s a work isn t he ? 
+
+                [ sentence 689 ] 
+ [-->] elle est aussi belle qu une rose .
+ [===] she is as beautiful as a rose .
+ [<--] she is as beautiful as a bee . 
+
+                [ sentence 690 ] 
+ [-->] elle est aussi grande que toi .
+ [===] she is as tall as you .
+ [<--] she is as tall as you . 
+
+                [ sentence 691 ] 
+ [-->] elle est aussi jeune que moi .
+ [===] she is as young as i am .
+ [<--] she is as young as me . 
+
+                [ sentence 692 ] 
+ [-->] elle est aussi jolie que sa s ur .
+ [===] she s as pretty as her sister .
+ [<--] she s as tall as her sister . 
+
+                [ sentence 693 ] 
+ [-->] elle est aussi occupee que tom .
+ [===] she s as busy as tom .
+ [<--] she s as busy as tom . 
+
+                [ sentence 694 ] 
+ [-->] elle est beaucoup plus lourde que lui .
+ [===] she s much heavier than him .
+ [<--] she s much younger than him . 
+
+                [ sentence 695 ] 
+ [-->] elle est belle comme blanche neige .
+ [===] she is as beautiful as snow white .
+ [<--] she is as as as as white . . 
+
+                [ sentence 696 ] 
+ [-->] elle est belle comme sa mere .
+ [===] she is beautiful like her mother .
+ [<--] she is as beautiful as her mother . 
+
+                [ sentence 697 ] 
+ [-->] elle est belle comme toujours .
+ [===] she is as beautiful as ever .
+ [<--] she is as beautiful as ever . . 
+
+                [ sentence 698 ] 
+ [-->] elle est belle et intelligente .
+ [===] she s smart and beautiful .
+ [<--] she is smart and beautiful . 
+
+                [ sentence 699 ] 
+ [-->] elle est bien connue comme chanteuse .
+ [===] she s well known as a singer .
+ [<--] she s well known as a singer . 
+
+                [ sentence 700 ] 
+ [-->] elle est bien connue en tant que chanteuse .
+ [===] she s well known as a singer .
+ [<--] she s known as a as singer . . 
+
+                [ sentence 701 ] 
+ [-->] elle est bien plus grande que moi .
+ [===] she is much taller than me .
+ [<--] she is much taller than me . 
+
+                [ sentence 702 ] 
+ [-->] elle est bien plus heureuse que lui .
+ [===] she s much happier than him .
+ [<--] she s much happier than him . 
+
+                [ sentence 703 ] 
+ [-->] elle est bien plus lourde que lui .
+ [===] she s much heavier than him .
+ [<--] she s much younger than him . 
+
+                [ sentence 704 ] 
+ [-->] elle est bienveillante .
+ [===] she is good natured .
+ [<--] she is good . 
+
+                [ sentence 705 ] 
+ [-->] elle est bon ecrivain .
+ [===] she is a good writer .
+ [<--] she is a good writer . 
+
+                [ sentence 706 ] 
+ [-->] elle est bonne a tomber .
+ [===] she s drop dead gorgeous .
+ [<--] she s hard at . . 
+
+                [ sentence 707 ] 
+ [-->] elle est bonne a tomber raide .
+ [===] she s drop dead gorgeous .
+ [<--] she s good at a . 
+
+                [ sentence 708 ] 
+ [-->] elle est bonne en natation .
+ [===] she is good at swimming .
+ [<--] she is good at swimming of me . 
+
+                [ sentence 709 ] 
+ [-->] elle est bonne en ski .
+ [===] she is good at skiing .
+ [<--] she is good at skiing . 
+
+                [ sentence 710 ] 
+ [-->] elle est bonne en tennis .
+ [===] she s good at tennis .
+ [<--] she s good at tennis . 
+
+                [ sentence 711 ] 
+ [-->] elle est bonne menteuse .
+ [===] she s a good liar .
+ [<--] she s a good liar . 
+
+                [ sentence 712 ] 
+ [-->] elle est bonne nageuse .
+ [===] she is a good swimmer .
+ [<--] she is a good dancer . 
+
+                [ sentence 713 ] 
+ [-->] elle est bonne pour l imiter .
+ [===] she is good at imitating him .
+ [<--] she is good at for a . 
+
+                [ sentence 714 ] 
+ [-->] elle est canadienne .
+ [===] she is canadian .
+ [<--] she is asleep . 
+
+                [ sentence 715 ] 
+ [-->] elle est capable de patiner .
+ [===] she is able to skate .
+ [<--] she is able to skate . 
+
+                [ sentence 716 ] 
+ [-->] elle est capable de tout .
+ [===] she is capable of anything .
+ [<--] she is capable of everything . 
+
+                [ sentence 717 ] 
+ [-->] elle est certaine de reussir les examens .
+ [===] she is certain to pass the exam .
+ [<--] she is certain to pass the manager . 
+
+                [ sentence 718 ] 
+ [-->] elle est certaine de venir a temps .
+ [===] she is certain to come on time .
+ [<--] she s certain to come up time . 
+
+                [ sentence 719 ] 
+ [-->] elle est chancarde .
+ [===] she is lucky .
+ [<--] she is sharp . 
+
+                [ sentence 720 ] 
+ [-->] elle est chanceuse .
+ [===] she is lucky .
+ [<--] she is lucky . 
+
+                [ sentence 721 ] 
+ [-->] elle est chanteuse .
+ [===] she is a singer .
+ [<--] she s a singer . 
+
+                [ sentence 722 ] 
+ [-->] elle est chaude .
+ [===] she s hot .
+ [<--] she s hot . 
+
+                [ sentence 723 ] 
+ [-->] elle est completement sourde de l oreille gauche .
+ [===] she is completely deaf in her left ear .
+ [<--] she is completely dressed in her mother . 
+
+                [ sentence 724 ] 
+ [-->] elle est connue de tout le monde .
+ [===] she is known to everyone .
+ [<--] she is known to everyone . 
+
+                [ sentence 725 ] 
+ [-->] elle est convaincue de mon innocence .
+ [===] she is convinced of my innocence .
+ [<--] she is convinced of my innocence . 
+
+                [ sentence 726 ] 
+ [-->] elle est coupable d un vol .
+ [===] she is guilty of stealing .
+ [<--] she is guilty of no . . 
+
+                [ sentence 727 ] 
+ [-->] elle est coupable de fraude .
+ [===] she is guilty of fraud .
+ [<--] she is guilty of fraud . 
+
+                [ sentence 728 ] 
+ [-->] elle est coupable de vol .
+ [===] she is guilty of theft .
+ [<--] she is guilty of murder . 
+
+                [ sentence 729 ] 
+ [-->] elle est curieuse de nature .
+ [===] she s inquisitive by nature .
+ [<--] she s known and nature . 
+
+                [ sentence 730 ] 
+ [-->] elle est d un naturel calme .
+ [===] she s a quiet person .
+ [<--] she is a quiet person of . 
+
+                [ sentence 731 ] 
+ [-->] elle est d une humeur massacrante .
+ [===] she is in an awful mood .
+ [<--] she is in an mood mood . 
+
+                [ sentence 732 ] 
+ [-->] elle est d une nature faible .
+ [===] she is weak by nature .
+ [<--] she is weak by nature . 
+
+                [ sentence 733 ] 
+ [-->] elle est dactylo .
+ [===] she is a typist .
+ [<--] she is a typist . 
+
+                [ sentence 734 ] 
+ [-->] elle est dans une bonne passe .
+ [===] she s on a roll .
+ [<--] she s on a roll . 
+
+                [ sentence 735 ] 
+ [-->] elle est danseuse du ventre .
+ [===] she s a belly dancer .
+ [<--] she is a doctor of . 
+
+                [ sentence 736 ] 
+ [-->] elle est davantage mignonne que belle .
+ [===] she is more pretty than beautiful .
+ [<--] she is as beautiful as beautiful . 
+
+                [ sentence 737 ] 
+ [-->] elle est de loin la plus grande fille .
+ [===] she s by far the tallest girl .
+ [<--] she s by far the tallest girl . 
+
+                [ sentence 738 ] 
+ [-->] elle est de mauvaise humeur .
+ [===] she s in a bad mood .
+ [<--] she is in a bad mood . 
+
+                [ sentence 739 ] 
+ [-->] elle est de nouveau elle meme .
+ [===] she is her old self again .
+ [<--] she is her her as her . 
+
+                [ sentence 740 ] 
+ [-->] elle est debutante .
+ [===] she is a beginner .
+ [<--] she is a beginner . 
+
+                [ sentence 741 ] 
+ [-->] elle est deja mariee .
+ [===] she is already married .
+ [<--] she s already married . 
+
+                [ sentence 742 ] 
+ [-->] elle est deprimee .
+ [===] she s depressed .
+ [<--] she s depressed . 
+
+                [ sentence 743 ] 
+ [-->] elle est desireuse de visiter l europe .
+ [===] she is anxious to visit europe .
+ [<--] she is anxious to see her . 
+
+                [ sentence 744 ] 
+ [-->] elle est desormais medecin .
+ [===] she s a doctor now .
+ [<--] she s a doctor a . 
+
+                [ sentence 745 ] 
+ [-->] elle est determinee a quitter l entreprise .
+ [===] she is determined to leave the company .
+ [<--] she is determined to leave the company . 
+
+                [ sentence 746 ] 
+ [-->] elle est deux ans plus jeune que moi .
+ [===] she is two years younger than me .
+ [<--] she is two years younger than me . 
+
+                [ sentence 747 ] 
+ [-->] elle est deux ans plus vieille que toi .
+ [===] she is two years older than you .
+ [<--] she is two years older than you . 
+
+                [ sentence 748 ] 
+ [-->] elle est deux ans plus vieille que vous .
+ [===] she is two years older than you .
+ [<--] she is two years older than you . 
+
+                [ sentence 749 ] 
+ [-->] elle est devouee a ses enfants .
+ [===] she is devoted to her children .
+ [<--] she is devoted to her children . 
+
+                [ sentence 750 ] 
+ [-->] elle est dotee d un talent special .
+ [===] she is endowed with a special talent .
+ [<--] she is as in a great great . 
+
+                [ sentence 751 ] 
+ [-->] elle est douee pour jouer au tennis .
+ [===] she is good at playing tennis .
+ [<--] she is good at playing tennis tennis . 
+
+                [ sentence 752 ] 
+ [-->] elle est dure a la tache .
+ [===] she is very hardworking .
+ [<--] she is very to 
+
+                [ sentence 753 ] 
+ [-->] elle est dure avec eux .
+ [===] she is hard on them .
+ [<--] she is hard on them . 
+
+                [ sentence 754 ] 
+ [-->] elle est en bons termes avec lui .
+ [===] she is on friendly terms with him .
+ [<--] she is on good with with him . 
+
+                [ sentence 755 ] 
+ [-->] elle est en colere apres moi .
+ [===] she is angry with me .
+ [<--] she is angry with me . 
+
+                [ sentence 756 ] 
+ [-->] elle est en colere apres toi .
+ [===] she is mad at you .
+ [<--] she is angry with you . 
+
+                [ sentence 757 ] 
+ [-->] elle est en colere apres vous .
+ [===] she is mad at you .
+ [<--] she is mad at you . 
+
+                [ sentence 758 ] 
+ [-->] elle est en colere contre moi .
+ [===] she is mad at me .
+ [<--] she is angry at me . 
+
+                [ sentence 759 ] 
+ [-->] elle est en danger .
+ [===] she s in danger .
+ [<--] she s in danger danger . 
+
+                [ sentence 760 ] 
+ [-->] elle est en relation avec cette societe .
+ [===] she is connected with that company .
+ [<--] she is used to with this company . 
+
+                [ sentence 761 ] 
+ [-->] elle est en retard .
+ [===] she is late .
+ [<--] she is late . 
+
+                [ sentence 762 ] 
+ [-->] elle est en retard sur son loyer .
+ [===] she is behind in her rent .
+ [<--] she is late in her . . 
+
+                [ sentence 763 ] 
+ [-->] elle est en train d arroser les fleurs .
+ [===] she is watering the flowers .
+ [<--] she is watering the flowers . 
+
+                [ sentence 764 ] 
+ [-->] elle est en train de coucher les enfants .
+ [===] she s putting the children to bed .
+ [<--] she is putting the children to the children . 
+
+                [ sentence 765 ] 
+ [-->] elle est en train de cuisiner pour lui .
+ [===] she is cooking for him .
+ [<--] she is cooking him him for him . 
+
+                [ sentence 766 ] 
+ [-->] elle est en train de l aider .
+ [===] she is helping him .
+ [<--] she is cooking him . 
+
+                [ sentence 767 ] 
+ [-->] elle est en train de l embrasser .
+ [===] she is kissing him .
+ [<--] she is making him . 
+
+                [ sentence 768 ] 
+ [-->] elle est en train de manger des fruits .
+ [===] she s eating fruit .
+ [<--] she is eating for him . 
+
+                [ sentence 769 ] 
+ [-->] elle est en train de pleurer .
+ [===] she is crying .
+ [<--] she is crying . 
+
+                [ sentence 770 ] 
+ [-->] elle est en train de reparer la machine .
+ [===] she s fixing the machine .
+ [<--] she s fixing the the . 
+
+                [ sentence 771 ] 
+ [-->] elle est en train de s exprimer .
+ [===] she is talking .
+ [<--] she is cooking . 
+
+                [ sentence 772 ] 
+ [-->] elle est enceinte .
+ [===] she s pregnant .
+ [<--] she s pregnant . 
+
+                [ sentence 773 ] 
+ [-->] elle est enceinte de jumeaux .
+ [===] she s pregnant with twins .
+ [<--] she s pregnant with twins . 
+
+                [ sentence 774 ] 
+ [-->] elle est encore jeune .
+ [===] she s still young .
+ [<--] she s still young . 
+
+                [ sentence 775 ] 
+ [-->] elle est encore mineure .
+ [===] she is still a girl .
+ [<--] she s still a minor . 
+
+                [ sentence 776 ] 
+ [-->] elle est entierement devouee a ses trois enfants .
+ [===] she is devoted to her three children .
+ [<--] she is devoted to her three children . 
+
+                [ sentence 777 ] 
+ [-->] elle est etudiante .
+ [===] she is a student .
+ [<--] she s a . 
+
+                [ sentence 778 ] 
+ [-->] elle est experte en mathematiques .
+ [===] she is an expert in mathematics .
+ [<--] she is an expert in mathematics . 
+
+                [ sentence 779 ] 
+ [-->] elle est extremement seduisante .
+ [===] she is extremely attractive .
+ [<--] she is extremely attractive . 
+
+                [ sentence 780 ] 
+ [-->] elle est extremement sensible au froid .
+ [===] she is exceedingly sensitive to the cold .
+ [<--] she is sensitive to cold cold . 
+
+                [ sentence 781 ] 
+ [-->] elle est fachee la .
+ [===] she s upset right now .
+ [<--] she s upset right now . 
+
+                [ sentence 782 ] 
+ [-->] elle est facile a vivre .
+ [===] she is easygoing .
+ [<--] she is devoted . 
+
+                [ sentence 783 ] 
+ [-->] elle est familiere du sujet .
+ [===] she is familiar with the subject .
+ [<--] she is familiar with the subject . 
+
+                [ sentence 784 ] 
+ [-->] elle est fauchee .
+ [===] she is hard up for money .
+ [<--] she is hard up for money . 
+
+                [ sentence 785 ] 
+ [-->] elle est fiancee a un homme riche .
+ [===] she is engaged to a rich man .
+ [<--] she is engaged to a rich man . 
+
+                [ sentence 786 ] 
+ [-->] elle est fiere de sa fille .
+ [===] she is proud of her daughter .
+ [<--] she is proud of her daughter . 
+
+                [ sentence 787 ] 
+ [-->] elle est fiere de ses eleves .
+ [===] she is proud of her students .
+ [<--] she is proud of his students . 
+
+                [ sentence 788 ] 
+ [-->] elle est fiere de ses enfants .
+ [===] she is proud of her children .
+ [<--] she is proud of her children . 
+
+                [ sentence 789 ] 
+ [-->] elle est fiere de son fils .
+ [===] she is proud of her son .
+ [<--] she is proud of her son . 
+
+                [ sentence 790 ] 
+ [-->] elle est fille unique .
+ [===] she s an only child .
+ [<--] she s an only child . 
+
+                [ sentence 791 ] 
+ [-->] elle est folle .
+ [===] she s demented .
+ [<--] she s demented . 
+
+                [ sentence 792 ] 
+ [-->] elle est forte .
+ [===] she is strong .
+ [<--] she is strong . 
+
+                [ sentence 793 ] 
+ [-->] elle est forte pour inventer des histoires interessantes .
+ [===] she is good at making up interesting stories .
+ [<--] she is good at making up up for interesting . 
+                [ sentence 794 ] 
+ [-->] elle est francaise .
+ [===] she is french .
+ [<--] she is french . 
+
+                [ sentence 795 ] 
+ [-->] elle est gentille .
+ [===] she s nice .
+ [<--] she is gentle . 
+
+                [ sentence 796 ] 
+ [-->] elle est gentille avec les personnes agees .
+ [===] she is kind to old people .
+ [<--] she s really to blame . 
+
+                [ sentence 797 ] 
+ [-->] elle est gracieuse .
+ [===] she is graceful .
+ [<--] she is being . 
+
+                [ sentence 798 ] 
+ [-->] elle est habillee elegamment .
+ [===] she s smartly dressed .
+ [<--] she s dressed dressed . 
+
+                [ sentence 799 ] 
+ [-->] elle est habillee en mariee .
+ [===] she is dressed like a bride .
+ [<--] she is dressed like a . . 
+
+                [ sentence 800 ] 
+ [-->] elle est habituee a se lever tot .
+ [===] she s used to getting up early .
+ [<--] she s used to getting up early . 
+
+                [ sentence 801 ] 
+ [-->] elle est habituee a se tenir assise .
+ [===] she is used to sitting .
+ [<--] she is used to living up . 
+
+                [ sentence 802 ] 
+ [-->] elle est habituee a vivre seule .
+ [===] she is used to living alone .
+ [<--] she is used to living alone . 
+
+                [ sentence 803 ] 
+ [-->] elle est habituellement en retard .
+ [===] she is habitually late .
+ [<--] she is late late . 
+
+                [ sentence 804 ] 
+ [-->] elle est hors de danger .
+ [===] she is out of danger .
+ [<--] she is guilty of danger . 
+
+                [ sentence 805 ] 
+ [-->] elle est hors sujet .
+ [===] she is missing the point .
+ [<--] she is missing the point . 
+
+                [ sentence 806 ] 
+ [-->] elle est hyperactive .
+ [===] she s hyperactive .
+ [<--] she s hyperactive . 
+
+                [ sentence 807 ] 
+ [-->] elle est inapte pour le poste .
+ [===] she s unfit for the job .
+ [<--] she s unfit for the job . 
+
+                [ sentence 808 ] 
+ [-->] elle est inconsciente .
+ [===] she is unconscious .
+ [<--] she is unconscious . 
+
+                [ sentence 809 ] 
+ [-->] elle est infirmiere .
+ [===] she is a nurse .
+ [<--] she is a nurse . 
+
+                [ sentence 810 ] 
+ [-->] elle est ingenue .
+ [===] she s innocent .
+ [<--] she is innocent . 
+
+                [ sentence 811 ] 
+ [-->] elle est innocente .
+ [===] she s innocent .
+ [<--] she s innocent . 
+
+                [ sentence 812 ] 
+ [-->] elle est inquiete de ta securite .
+ [===] she s worried about your safety .
+ [<--] she s worried about your safety . 
+
+                [ sentence 813 ] 
+ [-->] elle est inquiete pour sa securite .
+ [===] she is anxious about her safety .
+ [<--] she is worried about her safety . 
+
+                [ sentence 814 ] 
+ [-->] elle est inquiete pour ta securite .
+ [===] she s worried about your safety .
+ [<--] she s worried about your safety . 
+
+                [ sentence 815 ] 
+ [-->] elle est inquiete pour votre securite .
+ [===] she s worried about your safety .
+ [<--] she s worried about your safety . 
+
+                [ sentence 816 ] 
+ [-->] elle est interessee a apprendre de nouvelles idees .
+ [===] she is interested in learning new ideas .
+ [<--] she is used to speak new ideas . 
+
+                [ sentence 817 ] 
+ [-->] elle est intimidee par les etrangers .
+ [===] she is shy of strangers .
+ [<--] she is shy of shy . 
+
+                [ sentence 818 ] 
+ [-->] elle est ivre de bonheur .
+ [===] she is drunk with happiness .
+ [<--] she is drunk with happiness . 
+
+                [ sentence 819 ] 
+ [-->] elle est jalouse de ma reussite .
+ [===] she is envious of my success .
+ [<--] she is proud of my success . 
+
+                [ sentence 820 ] 
+ [-->] elle est japonaise .
+ [===] she is japanese .
+ [<--] she is japanese . 
+
+                [ sentence 821 ] 
+ [-->] elle est jeune .
+ [===] she is young .
+ [<--] she is young . 
+
+                [ sentence 822 ] 
+ [-->] elle est jumelle .
+ [===] she is a twin .
+ [<--] she is a twin . 
+
+                [ sentence 823 ] 
+ [-->] elle est juste decorative .
+ [===] she is just a wallflower .
+ [<--] she is just a bad . 
+
+                [ sentence 824 ] 
+ [-->] elle est l editeur en chef .
+ [===] she is the editor in chief .
+ [<--] she is the executive editor . 
+
+                [ sentence 825 ] 
+ [-->] elle est la s ur de tom .
+ [===] she s tom s sister .
+ [<--] she s tom s sister . 
+
+                [ sentence 826 ] 
+ [-->] elle est ma camarade de classe .
+ [===] she is my classmate .
+ [<--] she is my classmate . 
+
+                [ sentence 827 ] 
+ [-->] elle est maigre comme un manche a balai .
+ [===] she is as thin as a broom stick .
+ [<--] she is as like a like a . . 
+
+                [ sentence 828 ] 
+ [-->] elle est maintenant a l hopital .
+ [===] she s in the hospital now .
+ [<--] she s in the hospital now . 
+
+                [ sentence 829 ] 
+ [-->] elle est maintenant a l hotel .
+ [===] she s at the hotel now .
+ [<--] she s now at the now . 
+
+                [ sentence 830 ] 
+ [-->] elle est mal elevee .
+ [===] she is bad mannered .
+ [<--] she is bad bad . 
+
+                [ sentence 831 ] 
+ [-->] elle est malade depuis mercredi dernier .
+ [===] she s been sick since last wednesday .
+ [<--] she s been sick last last last . 
+
+                [ sentence 832 ] 
+ [-->] elle est maladroite .
+ [===] she is awkward .
+ [<--] she is awkward . 
+
+                [ sentence 833 ] 
+ [-->] elle est mannequin .
+ [===] she s a model .
+ [<--] she s a . 
+
+                [ sentence 834 ] 
+ [-->] elle est mariee a un americain .
+ [===] she is married to an american .
+ [<--] she s married to an american . 
+
+                [ sentence 835 ] 
+ [-->] elle est mariee a un etranger .
+ [===] she s married to a foreigner .
+ [<--] she is married to a foreigner . 
+
+                [ sentence 836 ] 
+ [-->] elle est materialiste et superficielle .
+ [===] she s materialistic and shallow .
+ [<--] she is known and french . 
+
+                [ sentence 837 ] 
+ [-->] elle est medecin .
+ [===] she is a doctor .
+ [<--] she is a doctor . 
+
+                [ sentence 838 ] 
+ [-->] elle est membre d une societe d etudiantes .
+ [===] she s a member of a sorority .
+ [<--] she s a of of a . . 
+
+                [ sentence 839 ] 
+ [-->] elle est mere celibataire .
+ [===] she s a single mother .
+ [<--] she s a single mother . 
+
+                [ sentence 840 ] 
+ [-->] elle est mere isolee de deux enfants .
+ [===] she s a single mother of two .
+ [<--] she is a beautiful child of two children . 
+
+                [ sentence 841 ] 
+ [-->] elle est mon amie .
+ [===] she s my friend .
+ [<--] she s my friend . 
+
+                [ sentence 842 ] 
+ [-->] elle est mon genre .
+ [===] she s my type .
+ [<--] she s my type . 
+
+                [ sentence 843 ] 
+ [-->] elle est mon premier amour .
+ [===] she s my first love .
+ [<--] she s in my mother . 
+
+                [ sentence 844 ] 
+ [-->] elle est morte .
+ [===] she is dead .
+ [<--] she is dead . 
+
+                [ sentence 845 ] 
+ [-->] elle est non seulement belle mais aussi intelligente .
+ [===] she is not only beautiful but also intelligent .
+ [<--] she is not as intelligent but also intelligent . 
+
+                [ sentence 846 ] 
+ [-->] elle est non seulement intelligente mais aussi jolie .
+ [===] she is not only intelligent but beautiful .
+ [<--] she is not but intelligent but but intelligent . 
+
+                [ sentence 847 ] 
+ [-->] elle est novice .
+ [===] she is a beginner .
+ [<--] she is a beginner . 
+
+                [ sentence 848 ] 
+ [-->] elle est obstinee .
+ [===] she is stubborn .
+ [<--] she is strong . 
+
+                [ sentence 849 ] 
+ [-->] elle est occupee .
+ [===] she s busy .
+ [<--] she s busy . 
+
+                [ sentence 850 ] 
+ [-->] elle est occupee a apprendre l anglais .
+ [===] she is busy learning english .
+ [<--] she is busy to learning english . 
+
+                [ sentence 851 ] 
+ [-->] elle est occupee a preparer le diner .
+ [===] she is busy cooking dinner .
+ [<--] she is busy preparing . 
+
+                [ sentence 852 ] 
+ [-->] elle est occupee a preparer le voyage .
+ [===] she is busy preparing for the trip .
+ [<--] she is busy preparing for the trip . 
+
+                [ sentence 853 ] 
+ [-->] elle est occupee par son travail .
+ [===] she s busy with her work .
+ [<--] she s busy at her work . 
+
+                [ sentence 854 ] 
+ [-->] elle est ouverte d esprit .
+ [===] she s open minded .
+ [<--] she s open minded . 
+
+                [ sentence 855 ] 
+ [-->] elle est paralysee des deux jambes .
+ [===] she is paralyzed in both legs .
+ [<--] she is in love . 
+
+                [ sentence 856 ] 
+ [-->] elle est partie en voyage .
+ [===] she s gone on a trip .
+ [<--] she s gone on a trip . 
+
+                [ sentence 857 ] 
+ [-->] elle est pauvre mais elle est heureuse .
+ [===] she is poor but she is happy .
+ [<--] she is poor but she is happy happy . 
+
+                [ sentence 858 ] 
+ [-->] elle est photographe professionnelle .
+ [===] she s a professional photographer .
+ [<--] she s a professional . . 
+
+                [ sentence 859 ] 
+ [-->] elle est pianiste .
+ [===] she is a pianist .
+ [<--] she is drunk . 
+
+                [ sentence 860 ] 
+ [-->] elle est plus agee et plus sage maintenant .
+ [===] she is older and wiser now .
+ [<--] she is older and wiser now . 
+
+                [ sentence 861 ] 
+ [-->] elle est plus agee que tom .
+ [===] she s older than tom .
+ [<--] she s older than tom . 
+
+                [ sentence 862 ] 
+ [-->] elle est plus grande que lui .
+ [===] she s taller than him .
+ [<--] she s taller than him . 
+
+                [ sentence 863 ] 
+ [-->] elle est plus grande que sa s ur .
+ [===] she is taller than her sister .
+ [<--] she is more beautiful and her sister . 
+
+                [ sentence 864 ] 
+ [-->] elle est plus intelligent que moi .
+ [===] she s smarter than me .
+ [<--] she is smarter than me . 
+
+                [ sentence 865 ] 
+ [-->] elle est plus jeune que lui .
+ [===] she s younger than him .
+ [<--] she s older than him . 
+
+                [ sentence 866 ] 
+ [-->] elle est plus maligne que lui .
+ [===] she s smarter than him .
+ [<--] she s much than him . 
+
+                [ sentence 867 ] 
+ [-->] elle est plus sage qu intelligente .
+ [===] she is more wise than clever .
+ [<--] she is more wise than clever . 
+
+                [ sentence 868 ] 
+ [-->] elle est plus une relation qu une amie .
+ [===] she is more an acquaintance than a friend .
+ [<--] she is more a friend than a friend . 
+
+                [ sentence 869 ] 
+ [-->] elle est plus vieille que lui .
+ [===] she s older than him .
+ [<--] she s older than him . 
+
+                [ sentence 870 ] 
+ [-->] elle est plutot bonne .
+ [===] she s rather good .
+ [<--] she s good good . 
+
+                [ sentence 871 ] 
+ [-->] elle est plutot conne .
+ [===] she s rather clueless .
+ [<--] she s rather sensitive . 
+
+                [ sentence 872 ] 
+ [-->] elle est presque aussi grande que toi .
+ [===] she is almost as tall as you .
+ [<--] she is almost as tall as you . 
+
+                [ sentence 873 ] 
+ [-->] elle est presque aussi grande que vous .
+ [===] she is almost as tall as you .
+ [<--] she is as tall as you . 
+
+                [ sentence 874 ] 
+ [-->] elle est privee de sortie .
+ [===] she is forbidden to go out .
+ [<--] she is certain to go out . 
+
+                [ sentence 875 ] 
+ [-->] elle est professeur .
+ [===] she s a professor .
+ [<--] she s a professor . 
+
+                [ sentence 876 ] 
+ [-->] elle est puissante .
+ [===] she is powerful .
+ [<--] she is powerful . 
+
+                [ sentence 877 ] 
+ [-->] elle est raide dingue de lui .
+ [===] she s completely crazy about him .
+ [<--] she s well about to him . 
+
+                [ sentence 878 ] 
+ [-->] elle est rapide en tout .
+ [===] she is quick at everything .
+ [<--] she is quick at everything . 
+
+                [ sentence 879 ] 
+ [-->] elle est rapide pour tout .
+ [===] she is quick at everything .
+ [<--] she is quick at everything . 
+
+                [ sentence 880 ] 
+ [-->] elle est sa veritable mere .
+ [===] she is his real mother .
+ [<--] she is her mother mother . 
+
+                [ sentence 881 ] 
+ [-->] elle est satisfaite par la robe .
+ [===] she is pleased with the dress .
+ [<--] she is pleased with the dress . 
+
+                [ sentence 882 ] 
+ [-->] elle est six ans plus agee que moi .
+ [===] she s six years older than me .
+ [<--] she s six years older than me . 
+
+                [ sentence 883 ] 
+ [-->] elle est son amie .
+ [===] she is her friend .
+ [<--] she is her friend . 
+
+                [ sentence 884 ] 
+ [-->] elle est son propre pire ennemi .
+ [===] she is her own worst enemy .
+ [<--] she is her own enemy . 
+
+                [ sentence 885 ] 
+ [-->] elle est sortie pour des chaussures .
+ [===] she s out shopping for shoes .
+ [<--] she s out shopping for shoes . 
+
+                [ sentence 886 ] 
+ [-->] elle est sourde a mes conseils .
+ [===] she is deaf to my advice .
+ [<--] she is hard to my food . 
+
+                [ sentence 887 ] 
+ [-->] elle est sous la chaise .
+ [===] she s under the chair .
+ [<--] she s the the chair . 
+
+                [ sentence 888 ] 
+ [-->] elle est super .
+ [===] she s awesome .
+ [<--] she s active . 
+
+                [ sentence 889 ] 
+ [-->] elle est sur le point de partir .
+ [===] she is about to leave .
+ [<--] she s about to go . 
+
+                [ sentence 890 ] 
+ [-->] elle est sure de reussir .
+ [===] she s sure to succeed .
+ [<--] she is sure to succeed . 
+
+                [ sentence 891 ] 
+ [-->] elle est sympa avec moi .
+ [===] she s nice to me .
+ [<--] she s being nice to me . 
+
+                [ sentence 892 ] 
+ [-->] elle est sympa avec tout le monde .
+ [===] she is friendly to everybody .
+ [<--] she is friendly to everyone . 
+
+                [ sentence 893 ] 
+ [-->] elle est sympathique avec tout le monde .
+ [===] she is gracious to everyone .
+ [<--] she is known to everyone . 
+
+                [ sentence 894 ] 
+ [-->] elle est totalement devouee a son mari .
+ [===] she is devoted to her husband .
+ [<--] she is devoted to her husband husband . 
+
+                [ sentence 895 ] 
+ [-->] elle est toubib .
+ [===] she is a doctor .
+ [<--] she is a doctor . 
+
+                [ sentence 896 ] 
+ [-->] elle est toujours a fumer .
+ [===] she is always smoking .
+ [<--] she is always dressed . 
+
+                [ sentence 897 ] 
+ [-->] elle est toujours apre au travail .
+ [===] she is always hard at work .
+ [<--] she s always at work work . 
+
+                [ sentence 898 ] 
+ [-->] elle est toujours aussi pauvre .
+ [===] she is as poor as ever .
+ [<--] she is as as poor as . 
+
+                [ sentence 899 ] 
+ [-->] elle est toujours en mouvement .
+ [===] she s always on the go .
+ [<--] she s always on the . 
+
+                [ sentence 900 ] 
+ [-->] elle est toujours en quete de compliments .
+ [===] she is always fishing for compliments .
+ [<--] she is always fishing for compliments . 
+
+                [ sentence 901 ] 
+ [-->] elle est toujours gentille avec tout le monde .
+ [===] she is always kind to everyone .
+ [<--] she is always friendly to everyone . 
+
+                [ sentence 902 ] 
+ [-->] elle est toujours habillee en noir .
+ [===] she is always dressed in black .
+ [<--] she is always dressed in shape . 
+
+                [ sentence 903 ] 
+ [-->] elle est toujours libre l apres midi .
+ [===] she is always free in the afternoon .
+ [<--] she is always free at the afternoon . 
+
+                [ sentence 904 ] 
+ [-->] elle est toujours occupee en semaine .
+ [===] she s always busy on weekdays .
+ [<--] she s always busy on weekdays . 
+
+                [ sentence 905 ] 
+ [-->] elle est toujours occupee les jours de semaine .
+ [===] she s always busy on weekdays .
+ [<--] she s always busy on weekdays . 
+
+                [ sentence 906 ] 
+ [-->] elle est toujours soignee et ordonnee .
+ [===] she is always neat and tidy .
+ [<--] she is always neatly and day . 
+
+                [ sentence 907 ] 
+ [-->] elle est toujours soigneusement habillee .
+ [===] she is always neatly dressed .
+ [<--] she is always neatly dressed . 
+
+                [ sentence 908 ] 
+ [-->] elle est toujours soigneusement vetue .
+ [===] she is always neatly dressed .
+ [<--] she is always neatly dressed . 
+
+                [ sentence 909 ] 
+ [-->] elle est toujours vetue de noir .
+ [===] she is always dressed in black .
+ [<--] she is always dressed in of . 
+
+                [ sentence 910 ] 
+ [-->] elle est tout pour lui .
+ [===] she is everything to him .
+ [<--] she s worried about him . 
+
+                [ sentence 911 ] 
+ [-->] elle est toute cousue d or .
+ [===] she s rolling in money .
+ [<--] she s as short as money . 
+
+                [ sentence 912 ] 
+ [-->] elle est toute differente de sa mere .
+ [===] she is not anything like her mother .
+ [<--] she is not like her mother mother . 
+
+                [ sentence 913 ] 
+ [-->] elle est tranchante .
+ [===] she is sharp .
+ [<--] she s sharp . 
+
+                [ sentence 914 ] 
+ [-->] elle est tranquille .
+ [===] she is quiet .
+ [<--] she is quiet . 
+
+                [ sentence 915 ] 
+ [-->] elle est tres amere envers moi .
+ [===] she is very bitter toward me .
+ [<--] she is very friendly to me . 
+
+                [ sentence 916 ] 
+ [-->] elle est tres attirante .
+ [===] she s hot .
+ [<--] she is very attractive . 
+
+                [ sentence 917 ] 
+ [-->] elle est tres belle .
+ [===] she s a beauty .
+ [<--] she s very beautiful . 
+
+                [ sentence 918 ] 
+ [-->] elle est tres bonne en ski .
+ [===] she is great at skiing .
+ [<--] she is very good at skiing . 
+
+                [ sentence 919 ] 
+ [-->] elle est tres contrariee .
+ [===] she s very upset .
+ [<--] she s very upset . 
+
+                [ sentence 920 ] 
+ [-->] elle est tres desireuse de te rencontrer .
+ [===] she is anxious to meet you .
+ [<--] she is anxious to meet you . 
+
+                [ sentence 921 ] 
+ [-->] elle est tres desireuse de vous rencontrer .
+ [===] she is anxious to meet you .
+ [<--] she is anxious to meet you . 
+
+                [ sentence 922 ] 
+ [-->] elle est tres emotive .
+ [===] she s very emotional .
+ [<--] she s very emotional . 
+
+                [ sentence 923 ] 
+ [-->] elle est tres en colere apres moi .
+ [===] she is very angry with me .
+ [<--] she is very angry with me . 
+
+                [ sentence 924 ] 
+ [-->] elle est tres fachee .
+ [===] she s very upset .
+ [<--] she s very upset . 
+
+                [ sentence 925 ] 
+ [-->] elle est tres fachee apres moi .
+ [===] she is very annoyed with me .
+ [<--] she is very confident at me . 
+
+                [ sentence 926 ] 
+ [-->] elle est tres fiere de sa fille .
+ [===] she is very proud of her daughter .
+ [<--] she is very proud of her daughter girl . 
+
+                [ sentence 927 ] 
+ [-->] elle est tres gentille avec nous .
+ [===] she is very kind to us .
+ [<--] she is very kind to us . 
+
+                [ sentence 928 ] 
+ [-->] elle est tres grande .
+ [===] she s very tall .
+ [<--] she is very tall . 
+
+                [ sentence 929 ] 
+ [-->] elle est tres mauvaise cuisiniere .
+ [===] she is terrible at cooking .
+ [<--] she is a very hard . 
+
+                [ sentence 930 ] 
+ [-->] elle est tres mignonne .
+ [===] she is very pretty .
+ [<--] she is very pretty . 
+
+                [ sentence 931 ] 
+ [-->] elle est tres occupee .
+ [===] she is very busy .
+ [<--] she is very busy . 
+
+                [ sentence 932 ] 
+ [-->] elle est tres photogenique .
+ [===] she is very photogenic .
+ [<--] she is very photogenic . 
+
+                [ sentence 933 ] 
+ [-->] elle est tres receptive a la suggestion hypnotique .
+ [===] she s very susceptible to hypnotic suggestion .
+ [<--] she s really to to up early . 
+
+                [ sentence 934 ] 
+ [-->] elle est tres sage .
+ [===] she is very wise .
+ [<--] she is very wise . 
+
+                [ sentence 935 ] 
+ [-->] elle est trop agee pour toi .
+ [===] she s too old for you .
+ [<--] she s too old for you . 
+
+                [ sentence 936 ] 
+ [-->] elle est trop bruyante .
+ [===] she s too loud .
+ [<--] she s too loud . 
+
+                [ sentence 937 ] 
+ [-->] elle est trop jeune pour connaitre la verite .
+ [===] she is too young to know the truth .
+ [<--] she is too young to know the truth . 
+
+                [ sentence 938 ] 
+ [-->] elle est trop vieille pour toi .
+ [===] she s too old for you .
+ [<--] she s too old for you . 
+
+                [ sentence 939 ] 
+ [-->] elle est trop vieille pour vous .
+ [===] she s too old for you .
+ [<--] she s too old for you . 
+
+                [ sentence 940 ] 
+ [-->] elle est un peu naive .
+ [===] she s a bit naive .
+ [<--] she s a bit naive . 
+
+                [ sentence 941 ] 
+ [-->] elle est un peu niaise .
+ [===] she s a bit naive .
+ [<--] she s a bit tipsy . 
+
+                [ sentence 942 ] 
+ [-->] elle est un tres bon professeur .
+ [===] she is a very good teacher .
+ [<--] she s a very good at english . 
+
+                [ sentence 943 ] 
+ [-->] elle est une artiste nee .
+ [===] she s a born artist .
+ [<--] she s a born artist . 
+
+                [ sentence 944 ] 
+ [-->] elle est une championne de football .
+ [===] she s a soccer champion .
+ [<--] she s a soccer champion . 
+
+                [ sentence 945 ] 
+ [-->] elle est une conductrice lamentable .
+ [===] she is a very poor driver .
+ [<--] she is a very poor driver . 
+
+                [ sentence 946 ] 
+ [-->] elle est une mere tres avisee .
+ [===] she s a very wise mother .
+ [<--] she is a very wise girl . 
+
+                [ sentence 947 ] 
+ [-->] elle est une personne egoiste .
+ [===] she is a selfish person .
+ [<--] she is a selfish person . 
+
+                [ sentence 948 ] 
+ [-->] elle est une personne tres interessante .
+ [===] she s a very interesting person .
+ [<--] she is a very interesting person . 
+
+                [ sentence 949 ] 
+ [-->] elle est une violoniste d un certain renom .
+ [===] she s a violinist of some renown .
+ [<--] she s a violinist of some renown . 
+
+                [ sentence 950 ] 
+ [-->] elle est une vrai beaute .
+ [===] she is a real beauty .
+ [<--] she is a beauty beauty . 
+
+                [ sentence 951 ] 
+ [-->] elle est vetue de blanc .
+ [===] she is dressed in white .
+ [<--] she is capable into white . 
+
+                [ sentence 952 ] 
+ [-->] elle est vieille .
+ [===] she is old .
+ [<--] she s old . 
+
+                [ sentence 953 ] 
+ [-->] elle est vraiment attentive et patiente .
+ [===] she is very thoughtful and patient .
+ [<--] she is very patient and patient . 
+
+                [ sentence 954 ] 
+ [-->] elle est vraiment intelligente .
+ [===] she is very intelligent .
+ [<--] she is really intelligent . 
+
+                [ sentence 955 ] 
+ [-->] elle est vraiment intelligente n est ce pas ?
+ [===] she s really smart isn t she ?
+ [<--] she s really kind of t he ? 
+
+                [ sentence 956 ] 
+ [-->] elle est vraiment passionnee de tricot .
+ [===] she is really into knitting .
+ [<--] she is really into knitting . 
+
+                [ sentence 957 ] 
+ [-->] elle est vraiment une fille ravissante .
+ [===] she s a real hottie .
+ [<--] she s a real hottie . 
+
+                [ sentence 958 ] 
+ [-->] elle fait des progres en chinois .
+ [===] she is progressing in chinese .
+ [<--] she is interested in chinese . 
+
+                [ sentence 959 ] 
+ [-->] elle fait juste semblant .
+ [===] she s just putting up a front .
+ [<--] she is certainly a a one of being . 
+
+                [ sentence 960 ] 
+ [-->] elle fait partie du personnel enseignant .
+ [===] she is on the teaching staff .
+ [<--] she is on the teaching of . 
+
+                [ sentence 961 ] 
+ [-->] elle fait rechauffer l eau .
+ [===] she s heating the water .
+ [<--] she s asking the . . 
+
+                [ sentence 962 ] 
+ [-->] elle fait un regime .
+ [===] she s dieting .
+ [<--] she is looking for a . 
+
+                [ sentence 963 ] 
+ [-->] elle fait un regime pour perdre du poids .
+ [===] she is on a diet to lose weight .
+ [<--] she is worried about her weight weight . 
+
+                [ sentence 964 ] 
+ [-->] elle joue a monopoly .
+ [===] she s playing monopoly .
+ [<--] she s playing . . 
+
+                [ sentence 965 ] 
+ [-->] elle l ecoute .
+ [===] she is listening to him .
+ [<--] she is writing old . 
+
+                [ sentence 966 ] 
+ [-->] elle le fait chanter .
+ [===] she is blackmailing him .
+ [<--] she is blackmailing him . 
+
+                [ sentence 967 ] 
+ [-->] elle lui est apparentee .
+ [===] she is related to him .
+ [<--] she is related to him . 
+
+                [ sentence 968 ] 
+ [-->] elle lui est apparentee de maniere lointaine .
+ [===] she is distantly related to him .
+ [<--] she is distantly related to him . 
+
+                [ sentence 969 ] 
+ [-->] elle lui est apparentee par alliance .
+ [===] she is related to him by marriage .
+ [<--] she is related to drive . 
+
+                [ sentence 970 ] 
+ [-->] elle lui est vaguement apparentee .
+ [===] she is distantly related to him .
+ [<--] she is distantly related to him . 
+
+                [ sentence 971 ] 
+ [-->] elle m est etrangere .
+ [===] she is a stranger to me .
+ [<--] she is a a child to me . 
+
+                [ sentence 972 ] 
+ [-->] elle m est hostile .
+ [===] she is hostile to me .
+ [<--] she is hostile to me . 
+
+                [ sentence 973 ] 
+ [-->] elle mange comme deux .
+ [===] she s eating for two .
+ [<--] she s as teaching two . 
+
+                [ sentence 974 ] 
+ [-->] elle manque de sens commun .
+ [===] she is lacking in common sense .
+ [<--] she is lacking in common sense . 
+
+                [ sentence 975 ] 
+ [-->] elle ment mal .
+ [===] she s a bad liar .
+ [<--] she s a bad liar . 
+
+                [ sentence 976 ] 
+ [-->] elle n a pas de charme .
+ [===] she is curt .
+ [<--] she s not done . 
+
+                [ sentence 977 ] 
+ [-->] elle n a pas honte de son inconduite .
+ [===] she is not ashamed of her misconduct .
+ [<--] she is not ashamed of her students . 
+
+                [ sentence 978 ] 
+ [-->] elle n a pas le moral aujourd hui .
+ [===] she is in low spirits today .
+ [<--] she is in low to today . 
+
+                [ sentence 979 ] 
+ [-->] elle n a pas peur de la mort .
+ [===] she isn t afraid of death .
+ [<--] she isn t afraid of death . 
+
+                [ sentence 980 ] 
+ [-->] elle n a pas peur de mourir .
+ [===] she is not afraid to die .
+ [<--] she is not afraid to die . 
+
+                [ sentence 981 ] 
+ [-->] elle n a pas peur des serpents .
+ [===] she isn t afraid of snakes .
+ [<--] she s not afraid of snakes . 
+
+                [ sentence 982 ] 
+ [-->] elle n a pas tort .
+ [===] she is not wrong .
+ [<--] she s not a point . 
+
+                [ sentence 983 ] 
+ [-->] elle n a peur de rien .
+ [===] she is not afraid of anything .
+ [<--] she is not afraid of anything . 
+
+                [ sentence 984 ] 
+ [-->] elle n admet pas son erreur .
+ [===] she s not admitting her mistake .
+ [<--] she s not making her mistake . 
+
+                [ sentence 985 ] 
+ [-->] elle n arrete pas de raler .
+ [===] she s always grumbling .
+ [<--] she isn t guilty of them . 
+
+                [ sentence 986 ] 
+ [-->] elle n est jamais a l heure .
+ [===] she is never on time .
+ [<--] she s never at home . 
+
+                [ sentence 987 ] 
+ [-->] elle n est jamais tombee amoureuse .
+ [===] she s never fallen in love .
+ [<--] she s never in love with me . 
+
+                [ sentence 988 ] 
+ [-->] elle n est ni riche ni connue .
+ [===] she s neither rich nor famous .
+ [<--] she s got rich . 
+
+                [ sentence 989 ] 
+ [-->] elle n est pas a blamer .
+ [===] she is not to blame .
+ [<--] she is t to for . 
+
+                [ sentence 990 ] 
+ [-->] elle n est pas apte pour le poste .
+ [===] she isn t fit for the job .
+ [<--] she isn t fit for the job . 
+
+                [ sentence 991 ] 
+ [-->] elle n est pas assez bonne pour lui .
+ [===] she isn t good enough for him .
+ [<--] she isn t good enough for him . 
+
+                [ sentence 992 ] 
+ [-->] elle n est pas aussi agee que marie .
+ [===] she s not as old as mary .
+ [<--] she s not as old as mary . 
+
+                [ sentence 993 ] 
+ [-->] elle n est pas bonne en sport .
+ [===] she is bad at sports .
+ [<--] she is not good at skiing . 
+
+                [ sentence 994 ] 
+ [-->] elle n est pas chanteuse .
+ [===] she s no singer .
+ [<--] she s no singer . 
+
+                [ sentence 995 ] 
+ [-->] elle n est pas chez elle actuellement .
+ [===] she s not at home now .
+ [<--] she s not at home now . 
+
+                [ sentence 996 ] 
+ [-->] elle n est pas confiante en l avenir .
+ [===] she s not confident about the future .
+ [<--] she s not about about the future . 
+
+                [ sentence 997 ] 
+ [-->] elle n est pas d humeur .
+ [===] she s not in the mood .
+ [<--] she s not in the mood . 
+
+                [ sentence 998 ] 
+ [-->] elle n est pas de taille avec moi .
+ [===] she is no match for me .
+ [<--] she is no me for me . 
+
+                [ sentence 999 ] 
+ [-->] elle n est pas elle meme aujourd hui .
+ [===] she is not herself today .
+ [<--] she is today today today . 
+

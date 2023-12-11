@@ -1,0 +1,27 @@
+(orbits-GP76-Leopard-11UG) Hello world, rank 0 out of 4
+(orbits-GP76-Leopard-11UG) Hello world, rank 3 out of 4
+Options:
+  Problem size: M = 4096, N = 4096, K = 4096
+  Number of threads per process: 32
+  Number of iterations: 10
+  Print matrix: off
+  Validation: on
+
+(orbits-GP76-Leopard-11UG) Hello world, rank 2 out of 4
+(orbits-GP76-Leopard-11UG) Hello world, rank 1 out of 4
+[rank 0] Initializing matrices...Done!
+0.985775 sec
+[rank 0] Calculating...(iter=1) 1.009201 sec
+[rank 0] Calculating...(iter=2) 1.036744 sec
+[rank 0] Calculating...(iter=3) 1.024349 sec
+[rank 0] Calculating...(iter=4) 1.024020 sec
+[rank 0] Calculating...(iter=5) 1.026595 sec
+[rank 0] Calculating...(iter=6) 1.050011 sec
+[rank 0] Calculating...(iter=7) 1.067500 sec
+[rank 0] Calculating...(iter=8) 1.051288 sec
+[rank 0] Calculating...(iter=9) 1.051465 sec
+[rank 0] Calculating...(iter=10) 1.101241 sec
+Validating...
+Result: VALID
+[rank 0] Avg. time: 1.044241 sec
+[rank 0] Avg. throughput: 131.616089 GFLOPS
